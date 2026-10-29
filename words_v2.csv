@@ -1,0 +1,1002 @@
+# version=2
+level,english,german
+A1,dog,Hund
+A1,cat,Katze
+A1,house,Haus
+A1,water,Wasser
+A1,bread,Brot
+A1,apple,Apfel
+A1,milk,Milch
+A1,book,Buch
+A1,car,Auto
+A1,tree,Baum
+A1,sun,Sonne
+A1,moon,Mond
+A1,mother,Mutter
+A1,father,Vater
+A1,child,Kind
+A1,friend,Freund
+A1,school,Schule
+A1,table,Tisch
+A1,chair,Stuhl
+A1,door,Tür
+A1,window,Fenster
+A1,red,rot
+A1,blue,blau
+A1,big,groß
+A1,small,klein
+A1,good,gut
+A1,to eat,essen
+A1,to drink,trinken
+A1,to sleep,schlafen
+A1,day,Tag
+A1,night,Nacht
+A1,morning,Vormittag|Morgen
+A1,evening,Abend
+A1,man,Mann
+A1,woman,Frau
+A1,boy,Junge
+A1,girl,Mädchen
+A1,brother,Bruder
+A1,sister,Schwester
+A1,son,Sohn
+A1,daughter,Tochter
+A1,grandmother,Großmutter|Oma
+A1,grandfather,Großvater|Opa
+A1,family,Familie
+A1,name,Name
+A1,baby,Baby
+A1,people,Leute
+A1,student,Schüler
+A1,hand,Hand
+A1,head,Kopf
+A1,eye,Auge
+A1,ear,Ohr
+A1,nose,Nase
+A1,mouth,Mund
+A1,foot,Fuß
+A1,arm,Arm
+A1,leg,Bein
+A1,hair,Haar|Haare
+A1,face,Gesicht
+A1,heart,Herz
+A1,body,Körper
+A1,bird,Vogel
+A1,horse,Pferd
+A1,cow,Kuh
+A1,pig,Schwein
+A1,mouse,Maus
+A1,rabbit,Hase|Kaninchen
+A1,egg,Ei
+A1,butter,Butter
+A1,meat,Fleisch
+A1,rice,Reis
+A1,soup,Suppe
+A1,salad,Salat
+A1,cake,Kuchen
+A1,coffee,Kaffee
+A1,tea,Tee
+A1,juice,Saft
+A1,beer,Bier
+A1,wine,Wein
+A1,sugar,Zucker
+A1,salt,Salz
+A1,potato,Kartoffel
+A1,tomato,Tomate
+A1,banana,Banane
+A1,orange,Orange
+A1,lemon,Zitrone
+A1,food,Nahrung|Essen
+A1,glass,Glas
+A1,cup,Tasse
+A1,plate,Teller
+A1,knife,Messer
+A1,fork,Gabel
+A1,spoon,Löffel
+A1,bottle,Flasche
+A1,bag,Tasche
+A1,room,Zimmer
+A1,bed,Bett
+A1,bathroom,Badezimmer
+A1,floor,Boden
+A1,wall,Wand
+A1,roof,Dach
+A1,key,Schlüssel
+A1,lamp,Lampe
+A1,clock,Uhr
+A1,phone,Telefon
+A1,computer,Computer
+A1,television,Fernseher
+A1,pen,Stift
+A1,paper,Papier
+A1,picture,Bild
+A1,letter,Brief
+A1,word,Wort
+A1,number,Zahl
+A1,one,eins
+A1,two,zwei
+A1,three,drei
+A1,four,vier
+A1,five,fünf
+A1,six,sechs
+A1,seven,sieben
+A1,eight,acht
+A1,nine,neun
+A1,ten,zehn
+A1,hundred,hundert
+A1,black,schwarz
+A1,white,weiß
+A1,green,grün
+A1,yellow,gelb
+A1,brown,braun
+A1,grey,grau
+A1,new,neu
+A1,old,alt
+A1,young,jung
+A1,long,lang
+A1,short,kurz
+A1,hot,heiß
+A1,happy,glücklich
+A1,sad,traurig
+A1,tired,müde
+A1,hungry,hungrig
+A1,beautiful,schön
+A1,nice,nett
+A1,fast,schnell
+A1,slow,langsam
+A1,easy,leicht
+A1,difficult,schwer
+A1,yes,ja
+A1,no,nein
+A1,please,bitte
+A1,thank you,danke
+A1,hello,hallo
+A1,goodbye,tschüss
+A1,to go,gehen
+A1,to come,kommen
+A1,to see,sehen
+A1,to hear,hören
+A1,to speak,sprechen
+A1,to read,lesen
+A1,to write,schreiben
+A1,to learn,lernen
+A1,to work,arbeiten
+A1,to play,spielen
+A1,to live,wohnen|leben
+A1,to like,mögen
+A1,to love,lieben
+A1,to have,haben
+A1,to be,sein
+A1,to make,machen
+A1,to give,geben
+A1,to take,nehmen
+A1,to run,laufen
+A1,to sit,sitzen
+A1,to stand,stehen
+A1,to open,öffnen
+A1,to close,schließen
+A1,to ask,fragen
+A1,to answer,antworten
+A1,to know,wissen
+A1,to want,wollen
+A1,to help,helfen
+A1,to wait,warten
+A1,to laugh,lachen
+A1,to sing,singen
+A1,to dance,tanzen
+A1,to swim,schwimmen
+A1,to wash,waschen
+A1,to find,finden
+A1,to look,schauen|gucken
+A1,to call,rufen
+A1,to bring,bringen
+A1,today,heute
+A1,tomorrow,morgen
+A1,yesterday,gestern
+A1,now,jetzt
+A1,here,hier
+A1,there,dort
+A1,left,links
+A1,right,rechts
+A1,up,oben
+A1,down,unten
+A2,kitchen,Küche
+A2,garden,Garten
+A2,street,Straße
+A2,city,Stadt
+A2,train,Zug
+A2,bicycle,Fahrrad|Rad
+A2,weather,Wetter
+A2,winter,Winter
+A2,summer,Sommer
+A2,shop,Geschäft|Laden
+A2,money,Geld
+A2,ticket,Fahrkarte|Ticket
+A2,breakfast,Frühstück
+A2,dinner,Abendessen
+A2,cheese,Käse
+A2,fish,Fisch
+A2,vegetable,Gemüse
+A2,doctor,Arzt
+A2,teacher,Lehrer
+A2,birthday,Geburtstag
+A2,holiday,Urlaub|Ferien
+A2,week,Woche
+A2,year,Jahr
+A2,cold,kalt
+A2,warm,warm
+A2,expensive,teuer
+A2,cheap,billig|günstig
+A2,to travel,reisen
+A2,to buy,kaufen
+A2,to cook,kochen
+A2,spring,Frühling
+A2,autumn,Herbst
+A2,month,Monat
+A2,hour,Stunde
+A2,minute,Minute
+A2,second,Sekunde
+A2,weekend,Wochenende
+A2,Monday,Montag
+A2,Tuesday,Dienstag
+A2,Wednesday,Mittwoch
+A2,Thursday,Donnerstag
+A2,Friday,Freitag
+A2,Saturday,Samstag|Sonnabend
+A2,Sunday,Sonntag
+A2,January,Januar
+A2,February,Februar
+A2,March,März
+A2,April,April
+A2,May,Mai
+A2,June,Juni
+A2,July,Juli
+A2,August,August
+A2,September,September
+A2,October,Oktober
+A2,November,November
+A2,December,Dezember
+A2,airport,Flughafen
+A2,plane,Flugzeug
+A2,ship,Schiff
+A2,station,Bahnhof
+A2,platform,Gleis
+A2,luggage,Gepäck
+A2,suitcase,Koffer
+A2,hotel,Hotel
+A2,passport,Reisepass
+A2,map,Karte
+A2,tourist,Tourist
+A2,beach,Strand
+A2,island,Insel
+A2,country,Land
+A2,border,Grenze
+A2,language,Sprache
+A2,pharmacy,Apotheke
+A2,hospital,Krankenhaus
+A2,medicine,Medikament|Medizin
+A2,pain,Schmerz
+A2,headache,Kopfschmerzen
+A2,fever,Fieber
+A2,cough,Husten
+A2,health,Gesundheit
+A2,nurse,Krankenschwester
+A2,dentist,Zahnarzt
+A2,post office,Post
+A2,bank,Bank
+A2,police,Polizei
+A2,office,Büro
+A2,company,Firma
+A2,job,Arbeit|Job
+A2,boss,Chef
+A2,colleague,Kollege
+A2,meeting,Besprechung|Treffen
+A2,salary,Gehalt
+A2,appointment,Termin
+A2,address,Adresse
+A2,apartment,Wohnung
+A2,rent,Miete
+A2,elevator,Aufzug|Fahrstuhl
+A2,stairs,Treppe
+A2,balcony,Balkon
+A2,basement,Keller
+A2,living room,Wohnzimmer
+A2,bedroom,Schlafzimmer
+A2,furniture,Möbel
+A2,carpet,Teppich
+A2,curtain,Vorhang
+A2,mirror,Spiegel
+A2,shower,Dusche
+A2,soap,Seife
+A2,towel,Handtuch
+A2,toothbrush,Zahnbürste
+A2,shirt,Hemd
+A2,trousers,Hose
+A2,dress,Kleid
+A2,skirt,Rock
+A2,jacket,Jacke
+A2,coat,Mantel
+A2,shoe,Schuh
+A2,sock,Socke
+A2,hat,Mütze|Hut
+A2,glove,Handschuh
+A2,scarf,Schal
+A2,umbrella,Regenschirm
+A2,glasses,Brille
+A2,ring,Ring
+A2,size,Größe
+A2,color,Farbe
+A2,price,Preis
+A2,bill,Rechnung
+A2,cash,Bargeld
+A2,supermarket,Supermarkt
+A2,butcher,Metzger
+A2,fruit,Obst
+A2,strawberry,Erdbeere
+A2,grape,Traube
+A2,pear,Birne
+A2,cherry,Kirsche
+A2,carrot,Karotte|Möhre
+A2,onion,Zwiebel
+A2,cucumber,Gurke
+A2,mushroom,Pilz
+A2,noodles,Nudeln
+A2,sausage,Wurst
+A2,ham,Schinken
+A2,honey,Honig
+A2,jam,Marmelade
+A2,chocolate,Schokolade
+A2,ice cream,Eis
+A2,menu,Speisekarte
+A2,waiter,Kellner
+A2,restaurant,Restaurant
+A2,hobby,Hobby
+A2,music,Musik
+A2,song,Lied
+A2,film,Film
+A2,game,Spiel
+A2,football,Fußball
+A2,sport,Sport
+A2,swimming pool,Schwimmbad
+A2,ball,Ball
+A2,concert,Konzert
+A2,museum,Museum
+A2,theater,Theater
+A2,party,Party|Feier
+A2,gift,Geschenk
+A2,to visit,besuchen
+A2,to wake up,aufwachen
+A2,to get up,aufstehen
+A2,to fall asleep,einschlafen
+A2,to clean,putzen|aufräumen
+A2,to repair,reparieren
+A2,to rent,mieten
+A2,to pay,bezahlen
+A2,to order,bestellen
+A2,to try,versuchen
+A2,to choose,wählen
+A2,to think,denken
+A2,to believe,glauben
+A2,to need,brauchen
+A2,to send,schicken|senden
+A2,to receive,bekommen|erhalten
+A2,to carry,tragen
+A2,to wear,anhaben|tragen
+A2,to leave,verlassen
+A2,to arrive,ankommen
+A2,to depart,abfahren
+A2,to change,ändern
+A2,to start,anfangen|beginnen
+A2,to stop,aufhören
+A2,to meet,treffen
+A2,to invite,einladen
+A2,to celebrate,feiern
+A2,to show,zeigen
+A2,to use,benutzen
+A2,to fly,fliegen
+A2,to drive,fahren
+A2,to climb,klettern
+A2,to fall,fallen
+A2,to push,drücken|schieben
+A2,to pull,ziehen
+A2,to cut,schneiden
+B1,jackal,Schakal
+B1,society,Gesellschaft
+B1,experience,Erfahrung
+B1,opinion,Meinung
+B1,environment,Umwelt
+B1,government,Regierung
+B1,advantage,Vorteil
+B1,disadvantage,Nachteil
+B1,decision,Entscheidung
+B1,development,Entwicklung
+B1,problem,Problem
+B1,solution,Lösung
+B1,success,Erfolg
+B1,adventure,Abenteuer
+B1,neighbor,Nachbar
+B1,journey,Reise
+B1,to develop,entwickeln
+B1,to suggest,vorschlagen
+B1,to explain,erklären
+B1,to forget,vergessen
+B1,to remember,sich erinnern|erinnern
+B1,to decide,entscheiden
+B1,to improve,verbessern
+B1,to compare,vergleichen
+B1,necessary,notwendig|nötig
+B1,dangerous,gefährlich
+B1,honest,ehrlich
+B1,curious,neugierig
+B1,reliable,zuverlässig
+B1,reason,Grund
+B1,purpose,Zweck
+B1,chance,Chance|Gelegenheit
+B1,risk,Risiko
+B1,danger,Gefahr
+B1,safety,Sicherheit
+B1,freedom,Freiheit
+B1,peace,Frieden
+B1,war,Krieg
+B1,law,Gesetz
+B1,duty,Pflicht
+B1,rule,Regel
+B1,crime,Verbrechen
+B1,thief,Dieb
+B1,court,Gericht
+B1,prison,Gefängnis
+B1,election,Wahl
+B1,vote,Stimme
+B1,citizen,Bürger
+B1,politics,Politik
+B1,economy,Wirtschaft
+B1,industry,Industrie
+B1,trade,Handel
+B1,tax,Steuer
+B1,income,Einkommen
+B1,debt,Schulden
+B1,insurance,Versicherung
+B1,career,Karriere|Laufbahn
+B1,application,Bewerbung
+B1,interview,Vorstellungsgespräch
+B1,qualification,Qualifikation|Abschluss
+B1,university,Universität
+B1,subject,Fach
+B1,lecture,Vorlesung
+B1,exam,Prüfung
+B1,grade,Note
+B1,education,Bildung
+B1,training,Ausbildung
+B1,course,Kurs
+B1,scholarship,Stipendium
+B1,library,Bibliothek
+B1,newspaper,Zeitung
+B1,magazine,Zeitschrift
+B1,article,Artikel
+B1,report,Bericht
+B1,news,Nachrichten
+B1,advertisement,Werbung|Anzeige
+B1,information,Information|Auskunft
+B1,message,Nachricht
+B1,internet,Internet
+B1,website,Webseite
+B1,technology,Technik|Technologie
+B1,invention,Erfindung
+B1,machine,Maschine
+B1,energy,Energie
+B1,electricity,Strom
+B1,pollution,Verschmutzung
+B1,climate,Klima
+B1,nature,Natur
+B1,animal,Tier
+B1,plant,Pflanze
+B1,resource,Ressource|Rohstoff
+B1,waste,Abfall|Müll
+B1,recycling,Recycling|Wiederverwertung
+B1,traffic,Verkehr
+B1,accident,Unfall
+B1,speed,Geschwindigkeit
+B1,distance,Entfernung|Abstand
+B1,direction,Richtung
+B1,destination,Reiseziel|Ziel
+B1,tourism,Tourismus
+B1,culture,Kultur
+B1,tradition,Tradition
+B1,custom,Brauch
+B1,religion,Religion
+B1,history,Geschichte
+B1,century,Jahrhundert
+B1,past,Vergangenheit
+B1,future,Zukunft
+B1,present,Gegenwart
+B1,memory,Erinnerung|Gedächtnis
+B1,dream,Traum
+B1,wish,Wunsch
+B1,hope,Hoffnung
+B1,fear,Angst
+B1,worry,Sorge
+B1,joy,Freude
+B1,anger,Wut|Ärger
+B1,surprise,Überraschung
+B1,mistake,Fehler
+B1,difference,Unterschied
+B1,similarity,Ähnlichkeit
+B1,example,Beispiel
+B1,question,Frage
+B1,answer,Antwort
+B1,topic,Thema
+B1,discussion,Diskussion
+B1,argument,Argument|Streit
+B1,conflict,Konflikt
+B1,promise,Versprechen
+B1,secret,Geheimnis
+B1,trust,Vertrauen
+B1,respect,Respekt|Achtung
+B1,friendship,Freundschaft
+B1,marriage,Ehe|Heirat
+B1,divorce,Scheidung
+B1,relative,Verwandte
+B1,guest,Gast
+B1,host,Gastgeber
+B1,stranger,Fremder
+B1,to prefer,bevorzugen
+B1,to expect,erwarten
+B1,to hope,hoffen
+B1,to fear,fürchten
+B1,to worry,sich sorgen|sorgen
+B1,to enjoy,genießen
+B1,to regret,bereuen
+B1,to admit,zugeben
+B1,to deny,leugnen
+B1,to refuse,ablehnen|verweigern
+B1,to accept,akzeptieren|annehmen
+B1,to agree,zustimmen
+B1,to disagree,widersprechen
+B1,to argue,streiten
+B1,to discuss,besprechen|diskutieren
+B1,to mention,erwähnen
+B1,to describe,beschreiben
+B1,to report,berichten
+B1,to inform,informieren
+B1,to warn,warnen
+B1,to advise,raten|beraten
+B1,to recommend,empfehlen
+B1,to allow,erlauben
+B1,to forbid,verbieten
+B1,to force,zwingen
+B1,to manage,schaffen|bewältigen
+B1,to succeed,gelingen
+B1,to fail,scheitern
+B1,to create,erstellen|erschaffen
+B1,to produce,herstellen|produzieren
+B1,to build,bauen
+B1,to destroy,zerstören
+B1,to damage,beschädigen
+B1,to protect,schützen
+B1,to rescue,retten
+B1,to save,sparen
+B1,to waste,verschwenden
+B1,to measure,messen
+B1,to count,zählen
+B1,to calculate,berechnen
+B1,to check,kontrollieren
+B1,to examine,untersuchen
+B1,to discover,entdecken
+B1,to invent,erfinden
+B1,to notice,bemerken
+B1,to recognize,erkennen
+B1,to understand,verstehen
+B1,to translate,übersetzen
+B1,to pronounce,aussprechen
+B1,to practice,üben
+B1,to repeat,wiederholen
+B1,to correct,korrigieren
+B1,to pass,bestehen
+B1,to participate,teilnehmen
+B1,to organize,organisieren
+B1,to arrange,vereinbaren
+B1,to postpone,verschieben
+B1,to cancel,absagen|stornieren
+B1,to reserve,reservieren
+B1,to book,buchen
+B1,to complain,sich beschweren|beschweren
+B2,challenge,Herausforderung
+B2,achievement,Leistung
+B2,responsibility,Verantwortung
+B2,relationship,Beziehung
+B2,attitude,Einstellung|Haltung
+B2,behavior,Verhalten
+B2,influence,Einfluss
+B2,consequence,Folge|Konsequenz
+B2,research,Forschung
+B2,evidence,Beweis
+B2,requirement,Anforderung|Voraussetzung
+B2,agreement,Vereinbarung|Abkommen
+B2,employment,Beschäftigung
+B2,unemployment,Arbeitslosigkeit
+B2,population,Bevölkerung
+B2,to achieve,erreichen
+B2,to demand,fordern
+B2,to claim,behaupten
+B2,to avoid,vermeiden
+B2,to support,unterstützen
+B2,to depend on,abhängen von|abhängen
+B2,to prevent,verhindern
+B2,to apply for,sich bewerben um|bewerben
+B2,to contribute,beitragen
+B2,sustainable,nachhaltig
+B2,significant,erheblich|bedeutend
+B2,reasonable,vernünftig
+B2,efficient,effizient
+B2,flexible,flexibel
+B2,independent,unabhängig
+B2,trend,Trend|Tendenz
+B2,tendency,Neigung
+B2,circumstance,Umstand
+B2,situation,Lage|Situation
+B2,condition,Bedingung
+B2,criterion,Kriterium
+B2,factor,Faktor
+B2,aspect,Aspekt
+B2,context,Zusammenhang|Kontext
+B2,concept,Konzept
+B2,approach,Ansatz
+B2,method,Methode
+B2,strategy,Strategie
+B2,measure,Maßnahme
+B2,effort,Anstrengung|Bemühung
+B2,effect,Wirkung
+B2,impact,Auswirkung
+B2,result,Ergebnis
+B2,benefit,Nutzen
+B2,profit,Gewinn
+B2,loss,Verlust
+B2,expense,Ausgabe
+B2,budget,Haushalt|Budget
+B2,investment,Investition
+B2,competition,Wettbewerb|Konkurrenz
+B2,demand,Nachfrage
+B2,offer,Angebot
+B2,supply,Versorgung
+B2,consumer,Verbraucher
+B2,customer,Kunde
+B2,service,Dienstleistung
+B2,quality,Qualität
+B2,quantity,Menge
+B2,majority,Mehrheit
+B2,minority,Minderheit
+B2,average,Durchschnitt
+B2,proportion,Anteil
+B2,amount,Betrag
+B2,increase,Anstieg
+B2,decline,Rückgang
+B2,shortage,Mangel
+B2,surplus,Überschuss
+B2,poverty,Armut
+B2,wealth,Reichtum
+B2,welfare,Fürsorge|Wohlfahrt
+B2,pension,Rente
+B2,immigration,Einwanderung
+B2,refugee,Flüchtling
+B2,integration,Integration
+B2,discrimination,Diskriminierung
+B2,equality,Gleichheit
+B2,justice,Gerechtigkeit
+B2,democracy,Demokratie
+B2,parliament,Parlament
+B2,campaign,Kampagne
+B2,authority,Behörde|Autorität
+B2,administration,Verwaltung
+B2,regulation,Vorschrift|Regelung
+B2,permission,Erlaubnis|Genehmigung
+B2,restriction,Begrenzung
+B2,obligation,Verpflichtung
+B2,contract,Vertrag
+B2,complaint,Beschwerde
+B2,dispute,Auseinandersetzung
+B2,compromise,Kompromiss
+B2,proposal,Vorschlag
+B2,request,Anfrage
+B2,reply,Rückmeldung|Erwiderung
+B2,statement,Aussage
+B2,comment,Kommentar|Bemerkung
+B2,debate,Debatte
+B2,criticism,Kritik
+B2,praise,Lob
+B2,reputation,Ruf
+B2,personality,Persönlichkeit
+B2,character,Charakter|Eigenschaft
+B2,talent,Begabung|Talent
+B2,skill,Fähigkeit
+B2,strength,Stärke
+B2,weakness,Schwäche
+B2,motivation,Motivation
+B2,ambition,Ehrgeiz
+B2,curiosity,Neugier
+B2,confidence,Selbstvertrauen
+B2,doubt,Zweifel
+B2,guilt,Schuld
+B2,shame,Scham
+B2,stress,Stress
+B2,pressure,Druck
+B2,burden,Belastung|Last
+B2,crisis,Krise
+B2,disaster,Katastrophe
+B2,emergency,Notfall
+B2,damage,Schaden
+B2,injury,Verletzung
+B2,illness,Krankheit
+B2,treatment,Behandlung
+B2,therapy,Therapie
+B2,prescription,Rezept
+B2,symptom,Symptom
+B2,diagnosis,Diagnose
+B2,surgery,Operation
+B2,vaccination,Impfung
+B2,addiction,Sucht
+B2,nutrition,Ernährung
+B2,diet,Diät
+B2,habit,Gewohnheit
+B2,lifestyle,Lebensstil
+B2,routine,Routine|Alltag
+B2,leisure,Freizeit
+B2,entertainment,Unterhaltung
+B2,exhibition,Ausstellung
+B2,festival,Fest|Festival
+B2,ceremony,Zeremonie
+B2,architecture,Architektur
+B2,monument,Denkmal
+B2,heritage,Erbe
+B2,literature,Literatur
+B2,novel,Roman
+B2,poem,Gedicht
+B2,author,Autor
+B2,publisher,Verlag
+B2,translation,Übersetzung
+B2,vocabulary,Wortschatz|Vokabeln
+B2,grammar,Grammatik
+B2,pronunciation,Aussprache
+B2,accent,Akzent
+B2,to establish,gründen|errichten
+B2,to launch,einführen
+B2,to adapt,anpassen
+B2,to adjust,einstellen
+B2,to adopt,übernehmen
+B2,to affect,beeinflussen
+B2,to aim,anstreben
+B2,to analyze,analysieren
+B2,to appear,erscheinen
+B2,to approve,genehmigen
+B2,to arise,entstehen
+B2,to assume,vermuten
+B2,to attract,anziehen|anlocken
+B2,to cause,verursachen
+B2,to challenge,herausfordern
+B2,to combine,kombinieren
+B2,to concentrate,konzentrieren
+B2,to conclude,folgern|schließen
+B2,to conduct,durchführen
+B2,to confirm,bestätigen
+B2,to consider,erwägen|betrachten
+B2,to convince,überzeugen
+B2,to cope,zurechtkommen
+B2,to criticize,kritisieren
+B2,to define,definieren
+B2,to delay,verzögern
+B2,to deliver,liefern
+B2,to prove,beweisen
+B2,to derive,ableiten
+B2,to determine,bestimmen
+B2,to distinguish,unterscheiden
+B2,to distribute,verteilen
+B2,to divide,aufteilen
+B2,to emphasize,betonen
+B2,to encourage,ermutigen
+B2,to ensure,sicherstellen
+B2,to estimate,schätzen
+B2,to evaluate,auswerten
+B2,to exceed,übertreffen|überschreiten
+B2,to exclude,ausschließen
+B2,to expand,erweitern
+B2,to explore,erforschen
+B2,to extend,verlängern
+C1,prosperity,Wohlstand
+C1,sovereignty,Souveränität
+C1,inequality,Ungleichheit
+C1,negotiation,Verhandlung
+C1,subsidy,Subvention
+C1,legislation,Gesetzgebung
+C1,jurisdiction,Rechtsprechung|Gerichtsbarkeit
+C1,prejudice,Vorurteil
+C1,perception,Wahrnehmung
+C1,tolerance,Toleranz
+C1,constraint,Einschränkung|Beschränkung
+C1,phenomenon,Phänomen
+C1,hypothesis,Hypothese
+C1,inevitable,unvermeidlich|unvermeidbar
+C1,ambiguous,mehrdeutig|zweideutig
+C1,reluctant,widerwillig|zögerlich
+C1,profound,tiefgreifend|tiefgründig
+C1,meticulous,sorgfältig|akribisch
+C1,to undermine,untergraben
+C1,to enforce,durchsetzen
+C1,to alleviate,lindern
+C1,to scrutinize,prüfen|durchleuchten
+C1,to disregard,missachten
+C1,to exacerbate,verschärfen
+C1,to foster,fördern
+C1,to implement,umsetzen
+C1,to assess,beurteilen|bewerten
+C1,to constitute,darstellen|bilden
+C1,to acknowledge,anerkennen|eingestehen
+C1,to overcome,überwinden
+C1,paradigm,Paradigma
+C1,discourse,Diskurs
+C1,nuance,Nuance
+C1,dilemma,Dilemma
+C1,contradiction,Widerspruch
+C1,paradox,Paradoxon
+C1,premise,Prämisse
+C1,assumption,Annahme
+C1,implication,Folgerung|Implikation
+C1,correlation,Korrelation
+C1,causality,Kausalität
+C1,benchmark,Maßstab
+C1,threshold,Schwelle
+C1,scope,Umfang
+C1,magnitude,Ausmaß
+C1,complexity,Komplexität
+C1,ambiguity,Mehrdeutigkeit
+C1,coherence,Kohärenz
+C1,consistency,Beständigkeit
+C1,discrepancy,Diskrepanz
+C1,disparity,Gefälle
+C1,margin,Spanne
+C1,deficit,Defizit
+C1,inflation,Inflation
+C1,recession,Rezession
+C1,austerity,Sparpolitik
+C1,taxation,Besteuerung
+C1,revenue,Einnahmen
+C1,expenditure,Ausgaben
+C1,liability,Haftung
+C1,accountability,Rechenschaftspflicht
+C1,transparency,Transparenz
+C1,integrity,Integrität
+C1,legitimacy,Legitimität
+C1,hierarchy,Hierarchie
+C1,bureaucracy,Bürokratie
+C1,diplomacy,Diplomatie
+C1,alliance,Bündnis
+C1,treaty,Staatsvertrag
+C1,sanction,Sanktion
+C1,embargo,Embargo
+C1,uprising,Aufstand
+C1,revolution,Revolution
+C1,oppression,Unterdrückung
+C1,persecution,Verfolgung
+C1,asylum,Asyl
+C1,citizenship,Staatsbürgerschaft
+C1,constitution,Verfassung
+C1,amendment,Novelle
+C1,verdict,Urteil
+C1,sentence,Strafe
+C1,plaintiff,Kläger
+C1,defendant,Angeklagte
+C1,witness,Zeuge
+C1,testimony,Zeugenaussage
+C1,suspect,Verdächtige
+C1,fraud,Betrug
+C1,corruption,Korruption
+C1,bribery,Bestechung
+C1,embezzlement,Veruntreuung
+C1,lawsuit,Klage|Prozess
+C1,appeal,Berufung
+C1,settlement,Vergleich
+C1,compensation,Entschädigung
+C1,negligence,Fahrlässigkeit
+C1,breakthrough,Durchbruch
+C1,advancement,Fortschritt
+C1,innovation,Neuerung|Innovation
+C1,prototype,Prototyp
+C1,algorithm,Algorithmus
+C1,simulation,Simulation
+C1,sustainability,Nachhaltigkeit
+C1,biodiversity,Artenvielfalt
+C1,ecosystem,Ökosystem
+C1,emission,Ausstoß|Emission
+C1,greenhouse gas,Treibhausgas
+C1,drought,Dürre
+C1,flood,Überschwemmung
+C1,famine,Hungersnot
+C1,epidemic,Epidemie
+C1,pandemic,Pandemie
+C1,immunity,Immunität
+C1,mutation,Mutation
+C1,genome,Genom
+C1,cell,Zelle
+C1,molecule,Molekül
+C1,gravity,Schwerkraft
+C1,radiation,Strahlung
+C1,ideology,Ideologie
+C1,philosophy,Philosophie
+C1,ethics,Ethik
+C1,morality,Moral
+C1,conscience,Gewissen
+C1,virtue,Tugend
+C1,vice,Laster
+C1,stereotype,Klischee|Stereotyp
+C1,bias,Voreingenommenheit
+C1,taboo,Tabu
+C1,ritual,Ritual
+C1,myth,Mythos
+C1,legend,Sage|Legende
+C1,irony,Ironie
+C1,satire,Satire
+C1,metaphor,Metapher
+C1,allegory,Allegorie
+C1,rhetoric,Rhetorik
+C1,controversy,Kontroverse|Streitfrage
+C1,scandal,Skandal
+C1,propaganda,Propaganda
+C1,censorship,Zensur
+C1,surveillance,Überwachung
+C1,privacy,Privatsphäre
+C1,anonymity,Anonymität
+C1,to accommodate,unterbringen|berücksichtigen
+C1,to accumulate,anhäufen|ansammeln
+C1,to advocate,befürworten
+C1,to allocate,zuweisen
+C1,to amend,abändern
+C1,to articulate,artikulieren|formulieren
+C1,to circumvent,umgehen
+C1,to clarify,klarstellen|klären
+C1,to coincide,zusammenfallen
+C1,to collaborate,zusammenarbeiten
+C1,to commemorate,gedenken
+C1,to compensate,ausgleichen|entschädigen
+C1,to complement,ergänzen
+C1,to comply,einhalten|befolgen
+C1,to comprehend,begreifen
+C1,to concede,einräumen
+C1,to condemn,verurteilen
+C1,to confer,übertragen
+C1,to confine,beschränken
+C1,to confront,konfrontieren
+C1,to converge,zusammenlaufen
+C1,to cultivate,anbauen|kultivieren
+C1,to curb,eindämmen
+C1,to deteriorate,sich verschlechtern
+C1,to deter,abschrecken
+C1,to diminish,schwinden
+C1,to discern,wahrnehmen
+C1,to disclose,offenlegen
+C1,to discriminate,diskriminieren
+C1,to dismantle,abbauen|demontieren
+C1,to dispel,zerstreuen
+C1,to disrupt,stören
+C1,to dissolve,auflösen
+C1,to distort,verzerren
+C1,to divert,umleiten|ablenken
+C1,to dominate,beherrschen
+C1,to elaborate,ausarbeiten
+C1,to eliminate,beseitigen
+C1,to embrace,umarmen
+C1,to emerge,hervorgehen|auftauchen
+C1,to enact,erlassen
+C1,to encompass,umfassen
+C1,to endorse,billigen
+C1,to endure,ertragen|aushalten
+C1,to enhance,steigern
+C1,to enlighten,aufklären
+C1,to entail,nach sich ziehen
+C1,to eradicate,ausrotten
+C1,to evoke,hervorrufen
+C1,to exempt,befreien
+C1,to exert,ausüben
+C1,to exploit,ausbeuten
+C1,to facilitate,erleichtern
+C1,to flourish,gedeihen|blühen
+C1,to forge,schmieden|fälschen
+C1,to fulfill,erfüllen
+C1,to gauge,einschätzen

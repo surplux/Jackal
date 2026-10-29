@@ -1,0 +1,5005 @@
+{
+ "version": 2,
+ "words": [
+  {
+   "level": "A1",
+   "en": "dog",
+   "de": "Hund"
+  },
+  {
+   "level": "A1",
+   "en": "cat",
+   "de": "Katze"
+  },
+  {
+   "level": "A1",
+   "en": "house",
+   "de": "Haus"
+  },
+  {
+   "level": "A1",
+   "en": "water",
+   "de": "Wasser"
+  },
+  {
+   "level": "A1",
+   "en": "bread",
+   "de": "Brot"
+  },
+  {
+   "level": "A1",
+   "en": "apple",
+   "de": "Apfel"
+  },
+  {
+   "level": "A1",
+   "en": "milk",
+   "de": "Milch"
+  },
+  {
+   "level": "A1",
+   "en": "book",
+   "de": "Buch"
+  },
+  {
+   "level": "A1",
+   "en": "car",
+   "de": "Auto"
+  },
+  {
+   "level": "A1",
+   "en": "tree",
+   "de": "Baum"
+  },
+  {
+   "level": "A1",
+   "en": "sun",
+   "de": "Sonne"
+  },
+  {
+   "level": "A1",
+   "en": "moon",
+   "de": "Mond"
+  },
+  {
+   "level": "A1",
+   "en": "mother",
+   "de": "Mutter"
+  },
+  {
+   "level": "A1",
+   "en": "father",
+   "de": "Vater"
+  },
+  {
+   "level": "A1",
+   "en": "child",
+   "de": "Kind"
+  },
+  {
+   "level": "A1",
+   "en": "friend",
+   "de": "Freund"
+  },
+  {
+   "level": "A1",
+   "en": "school",
+   "de": "Schule"
+  },
+  {
+   "level": "A1",
+   "en": "table",
+   "de": "Tisch"
+  },
+  {
+   "level": "A1",
+   "en": "chair",
+   "de": "Stuhl"
+  },
+  {
+   "level": "A1",
+   "en": "door",
+   "de": "Tür"
+  },
+  {
+   "level": "A1",
+   "en": "window",
+   "de": "Fenster"
+  },
+  {
+   "level": "A1",
+   "en": "red",
+   "de": "rot"
+  },
+  {
+   "level": "A1",
+   "en": "blue",
+   "de": "blau"
+  },
+  {
+   "level": "A1",
+   "en": "big",
+   "de": "groß"
+  },
+  {
+   "level": "A1",
+   "en": "small",
+   "de": "klein"
+  },
+  {
+   "level": "A1",
+   "en": "good",
+   "de": "gut"
+  },
+  {
+   "level": "A1",
+   "en": "to eat",
+   "de": "essen"
+  },
+  {
+   "level": "A1",
+   "en": "to drink",
+   "de": "trinken"
+  },
+  {
+   "level": "A1",
+   "en": "to sleep",
+   "de": "schlafen"
+  },
+  {
+   "level": "A1",
+   "en": "day",
+   "de": "Tag"
+  },
+  {
+   "level": "A1",
+   "en": "night",
+   "de": "Nacht"
+  },
+  {
+   "level": "A1",
+   "en": "morning",
+   "de": "Vormittag|Morgen"
+  },
+  {
+   "level": "A1",
+   "en": "evening",
+   "de": "Abend"
+  },
+  {
+   "level": "A1",
+   "en": "man",
+   "de": "Mann"
+  },
+  {
+   "level": "A1",
+   "en": "woman",
+   "de": "Frau"
+  },
+  {
+   "level": "A1",
+   "en": "boy",
+   "de": "Junge"
+  },
+  {
+   "level": "A1",
+   "en": "girl",
+   "de": "Mädchen"
+  },
+  {
+   "level": "A1",
+   "en": "brother",
+   "de": "Bruder"
+  },
+  {
+   "level": "A1",
+   "en": "sister",
+   "de": "Schwester"
+  },
+  {
+   "level": "A1",
+   "en": "son",
+   "de": "Sohn"
+  },
+  {
+   "level": "A1",
+   "en": "daughter",
+   "de": "Tochter"
+  },
+  {
+   "level": "A1",
+   "en": "grandmother",
+   "de": "Großmutter|Oma"
+  },
+  {
+   "level": "A1",
+   "en": "grandfather",
+   "de": "Großvater|Opa"
+  },
+  {
+   "level": "A1",
+   "en": "family",
+   "de": "Familie"
+  },
+  {
+   "level": "A1",
+   "en": "name",
+   "de": "Name"
+  },
+  {
+   "level": "A1",
+   "en": "baby",
+   "de": "Baby"
+  },
+  {
+   "level": "A1",
+   "en": "people",
+   "de": "Leute"
+  },
+  {
+   "level": "A1",
+   "en": "student",
+   "de": "Schüler"
+  },
+  {
+   "level": "A1",
+   "en": "hand",
+   "de": "Hand"
+  },
+  {
+   "level": "A1",
+   "en": "head",
+   "de": "Kopf"
+  },
+  {
+   "level": "A1",
+   "en": "eye",
+   "de": "Auge"
+  },
+  {
+   "level": "A1",
+   "en": "ear",
+   "de": "Ohr"
+  },
+  {
+   "level": "A1",
+   "en": "nose",
+   "de": "Nase"
+  },
+  {
+   "level": "A1",
+   "en": "mouth",
+   "de": "Mund"
+  },
+  {
+   "level": "A1",
+   "en": "foot",
+   "de": "Fuß"
+  },
+  {
+   "level": "A1",
+   "en": "arm",
+   "de": "Arm"
+  },
+  {
+   "level": "A1",
+   "en": "leg",
+   "de": "Bein"
+  },
+  {
+   "level": "A1",
+   "en": "hair",
+   "de": "Haar|Haare"
+  },
+  {
+   "level": "A1",
+   "en": "face",
+   "de": "Gesicht"
+  },
+  {
+   "level": "A1",
+   "en": "heart",
+   "de": "Herz"
+  },
+  {
+   "level": "A1",
+   "en": "body",
+   "de": "Körper"
+  },
+  {
+   "level": "A1",
+   "en": "bird",
+   "de": "Vogel"
+  },
+  {
+   "level": "A1",
+   "en": "horse",
+   "de": "Pferd"
+  },
+  {
+   "level": "A1",
+   "en": "cow",
+   "de": "Kuh"
+  },
+  {
+   "level": "A1",
+   "en": "pig",
+   "de": "Schwein"
+  },
+  {
+   "level": "A1",
+   "en": "mouse",
+   "de": "Maus"
+  },
+  {
+   "level": "A1",
+   "en": "rabbit",
+   "de": "Hase|Kaninchen"
+  },
+  {
+   "level": "A1",
+   "en": "egg",
+   "de": "Ei"
+  },
+  {
+   "level": "A1",
+   "en": "butter",
+   "de": "Butter"
+  },
+  {
+   "level": "A1",
+   "en": "meat",
+   "de": "Fleisch"
+  },
+  {
+   "level": "A1",
+   "en": "rice",
+   "de": "Reis"
+  },
+  {
+   "level": "A1",
+   "en": "soup",
+   "de": "Suppe"
+  },
+  {
+   "level": "A1",
+   "en": "salad",
+   "de": "Salat"
+  },
+  {
+   "level": "A1",
+   "en": "cake",
+   "de": "Kuchen"
+  },
+  {
+   "level": "A1",
+   "en": "coffee",
+   "de": "Kaffee"
+  },
+  {
+   "level": "A1",
+   "en": "tea",
+   "de": "Tee"
+  },
+  {
+   "level": "A1",
+   "en": "juice",
+   "de": "Saft"
+  },
+  {
+   "level": "A1",
+   "en": "beer",
+   "de": "Bier"
+  },
+  {
+   "level": "A1",
+   "en": "wine",
+   "de": "Wein"
+  },
+  {
+   "level": "A1",
+   "en": "sugar",
+   "de": "Zucker"
+  },
+  {
+   "level": "A1",
+   "en": "salt",
+   "de": "Salz"
+  },
+  {
+   "level": "A1",
+   "en": "potato",
+   "de": "Kartoffel"
+  },
+  {
+   "level": "A1",
+   "en": "tomato",
+   "de": "Tomate"
+  },
+  {
+   "level": "A1",
+   "en": "banana",
+   "de": "Banane"
+  },
+  {
+   "level": "A1",
+   "en": "orange",
+   "de": "Orange"
+  },
+  {
+   "level": "A1",
+   "en": "lemon",
+   "de": "Zitrone"
+  },
+  {
+   "level": "A1",
+   "en": "food",
+   "de": "Nahrung|Essen"
+  },
+  {
+   "level": "A1",
+   "en": "glass",
+   "de": "Glas"
+  },
+  {
+   "level": "A1",
+   "en": "cup",
+   "de": "Tasse"
+  },
+  {
+   "level": "A1",
+   "en": "plate",
+   "de": "Teller"
+  },
+  {
+   "level": "A1",
+   "en": "knife",
+   "de": "Messer"
+  },
+  {
+   "level": "A1",
+   "en": "fork",
+   "de": "Gabel"
+  },
+  {
+   "level": "A1",
+   "en": "spoon",
+   "de": "Löffel"
+  },
+  {
+   "level": "A1",
+   "en": "bottle",
+   "de": "Flasche"
+  },
+  {
+   "level": "A1",
+   "en": "bag",
+   "de": "Tasche"
+  },
+  {
+   "level": "A1",
+   "en": "room",
+   "de": "Zimmer"
+  },
+  {
+   "level": "A1",
+   "en": "bed",
+   "de": "Bett"
+  },
+  {
+   "level": "A1",
+   "en": "bathroom",
+   "de": "Badezimmer"
+  },
+  {
+   "level": "A1",
+   "en": "floor",
+   "de": "Boden"
+  },
+  {
+   "level": "A1",
+   "en": "wall",
+   "de": "Wand"
+  },
+  {
+   "level": "A1",
+   "en": "roof",
+   "de": "Dach"
+  },
+  {
+   "level": "A1",
+   "en": "key",
+   "de": "Schlüssel"
+  },
+  {
+   "level": "A1",
+   "en": "lamp",
+   "de": "Lampe"
+  },
+  {
+   "level": "A1",
+   "en": "clock",
+   "de": "Uhr"
+  },
+  {
+   "level": "A1",
+   "en": "phone",
+   "de": "Telefon"
+  },
+  {
+   "level": "A1",
+   "en": "computer",
+   "de": "Computer"
+  },
+  {
+   "level": "A1",
+   "en": "television",
+   "de": "Fernseher"
+  },
+  {
+   "level": "A1",
+   "en": "pen",
+   "de": "Stift"
+  },
+  {
+   "level": "A1",
+   "en": "paper",
+   "de": "Papier"
+  },
+  {
+   "level": "A1",
+   "en": "picture",
+   "de": "Bild"
+  },
+  {
+   "level": "A1",
+   "en": "letter",
+   "de": "Brief"
+  },
+  {
+   "level": "A1",
+   "en": "word",
+   "de": "Wort"
+  },
+  {
+   "level": "A1",
+   "en": "number",
+   "de": "Zahl"
+  },
+  {
+   "level": "A1",
+   "en": "one",
+   "de": "eins"
+  },
+  {
+   "level": "A1",
+   "en": "two",
+   "de": "zwei"
+  },
+  {
+   "level": "A1",
+   "en": "three",
+   "de": "drei"
+  },
+  {
+   "level": "A1",
+   "en": "four",
+   "de": "vier"
+  },
+  {
+   "level": "A1",
+   "en": "five",
+   "de": "fünf"
+  },
+  {
+   "level": "A1",
+   "en": "six",
+   "de": "sechs"
+  },
+  {
+   "level": "A1",
+   "en": "seven",
+   "de": "sieben"
+  },
+  {
+   "level": "A1",
+   "en": "eight",
+   "de": "acht"
+  },
+  {
+   "level": "A1",
+   "en": "nine",
+   "de": "neun"
+  },
+  {
+   "level": "A1",
+   "en": "ten",
+   "de": "zehn"
+  },
+  {
+   "level": "A1",
+   "en": "hundred",
+   "de": "hundert"
+  },
+  {
+   "level": "A1",
+   "en": "black",
+   "de": "schwarz"
+  },
+  {
+   "level": "A1",
+   "en": "white",
+   "de": "weiß"
+  },
+  {
+   "level": "A1",
+   "en": "green",
+   "de": "grün"
+  },
+  {
+   "level": "A1",
+   "en": "yellow",
+   "de": "gelb"
+  },
+  {
+   "level": "A1",
+   "en": "brown",
+   "de": "braun"
+  },
+  {
+   "level": "A1",
+   "en": "grey",
+   "de": "grau"
+  },
+  {
+   "level": "A1",
+   "en": "new",
+   "de": "neu"
+  },
+  {
+   "level": "A1",
+   "en": "old",
+   "de": "alt"
+  },
+  {
+   "level": "A1",
+   "en": "young",
+   "de": "jung"
+  },
+  {
+   "level": "A1",
+   "en": "long",
+   "de": "lang"
+  },
+  {
+   "level": "A1",
+   "en": "short",
+   "de": "kurz"
+  },
+  {
+   "level": "A1",
+   "en": "hot",
+   "de": "heiß"
+  },
+  {
+   "level": "A1",
+   "en": "happy",
+   "de": "glücklich"
+  },
+  {
+   "level": "A1",
+   "en": "sad",
+   "de": "traurig"
+  },
+  {
+   "level": "A1",
+   "en": "tired",
+   "de": "müde"
+  },
+  {
+   "level": "A1",
+   "en": "hungry",
+   "de": "hungrig"
+  },
+  {
+   "level": "A1",
+   "en": "beautiful",
+   "de": "schön"
+  },
+  {
+   "level": "A1",
+   "en": "nice",
+   "de": "nett"
+  },
+  {
+   "level": "A1",
+   "en": "fast",
+   "de": "schnell"
+  },
+  {
+   "level": "A1",
+   "en": "slow",
+   "de": "langsam"
+  },
+  {
+   "level": "A1",
+   "en": "easy",
+   "de": "leicht"
+  },
+  {
+   "level": "A1",
+   "en": "difficult",
+   "de": "schwer"
+  },
+  {
+   "level": "A1",
+   "en": "yes",
+   "de": "ja"
+  },
+  {
+   "level": "A1",
+   "en": "no",
+   "de": "nein"
+  },
+  {
+   "level": "A1",
+   "en": "please",
+   "de": "bitte"
+  },
+  {
+   "level": "A1",
+   "en": "thank you",
+   "de": "danke"
+  },
+  {
+   "level": "A1",
+   "en": "hello",
+   "de": "hallo"
+  },
+  {
+   "level": "A1",
+   "en": "goodbye",
+   "de": "tschüss"
+  },
+  {
+   "level": "A1",
+   "en": "to go",
+   "de": "gehen"
+  },
+  {
+   "level": "A1",
+   "en": "to come",
+   "de": "kommen"
+  },
+  {
+   "level": "A1",
+   "en": "to see",
+   "de": "sehen"
+  },
+  {
+   "level": "A1",
+   "en": "to hear",
+   "de": "hören"
+  },
+  {
+   "level": "A1",
+   "en": "to speak",
+   "de": "sprechen"
+  },
+  {
+   "level": "A1",
+   "en": "to read",
+   "de": "lesen"
+  },
+  {
+   "level": "A1",
+   "en": "to write",
+   "de": "schreiben"
+  },
+  {
+   "level": "A1",
+   "en": "to learn",
+   "de": "lernen"
+  },
+  {
+   "level": "A1",
+   "en": "to work",
+   "de": "arbeiten"
+  },
+  {
+   "level": "A1",
+   "en": "to play",
+   "de": "spielen"
+  },
+  {
+   "level": "A1",
+   "en": "to live",
+   "de": "wohnen|leben"
+  },
+  {
+   "level": "A1",
+   "en": "to like",
+   "de": "mögen"
+  },
+  {
+   "level": "A1",
+   "en": "to love",
+   "de": "lieben"
+  },
+  {
+   "level": "A1",
+   "en": "to have",
+   "de": "haben"
+  },
+  {
+   "level": "A1",
+   "en": "to be",
+   "de": "sein"
+  },
+  {
+   "level": "A1",
+   "en": "to make",
+   "de": "machen"
+  },
+  {
+   "level": "A1",
+   "en": "to give",
+   "de": "geben"
+  },
+  {
+   "level": "A1",
+   "en": "to take",
+   "de": "nehmen"
+  },
+  {
+   "level": "A1",
+   "en": "to run",
+   "de": "laufen"
+  },
+  {
+   "level": "A1",
+   "en": "to sit",
+   "de": "sitzen"
+  },
+  {
+   "level": "A1",
+   "en": "to stand",
+   "de": "stehen"
+  },
+  {
+   "level": "A1",
+   "en": "to open",
+   "de": "öffnen"
+  },
+  {
+   "level": "A1",
+   "en": "to close",
+   "de": "schließen"
+  },
+  {
+   "level": "A1",
+   "en": "to ask",
+   "de": "fragen"
+  },
+  {
+   "level": "A1",
+   "en": "to answer",
+   "de": "antworten"
+  },
+  {
+   "level": "A1",
+   "en": "to know",
+   "de": "wissen"
+  },
+  {
+   "level": "A1",
+   "en": "to want",
+   "de": "wollen"
+  },
+  {
+   "level": "A1",
+   "en": "to help",
+   "de": "helfen"
+  },
+  {
+   "level": "A1",
+   "en": "to wait",
+   "de": "warten"
+  },
+  {
+   "level": "A1",
+   "en": "to laugh",
+   "de": "lachen"
+  },
+  {
+   "level": "A1",
+   "en": "to sing",
+   "de": "singen"
+  },
+  {
+   "level": "A1",
+   "en": "to dance",
+   "de": "tanzen"
+  },
+  {
+   "level": "A1",
+   "en": "to swim",
+   "de": "schwimmen"
+  },
+  {
+   "level": "A1",
+   "en": "to wash",
+   "de": "waschen"
+  },
+  {
+   "level": "A1",
+   "en": "to find",
+   "de": "finden"
+  },
+  {
+   "level": "A1",
+   "en": "to look",
+   "de": "schauen|gucken"
+  },
+  {
+   "level": "A1",
+   "en": "to call",
+   "de": "rufen"
+  },
+  {
+   "level": "A1",
+   "en": "to bring",
+   "de": "bringen"
+  },
+  {
+   "level": "A1",
+   "en": "today",
+   "de": "heute"
+  },
+  {
+   "level": "A1",
+   "en": "tomorrow",
+   "de": "morgen"
+  },
+  {
+   "level": "A1",
+   "en": "yesterday",
+   "de": "gestern"
+  },
+  {
+   "level": "A1",
+   "en": "now",
+   "de": "jetzt"
+  },
+  {
+   "level": "A1",
+   "en": "here",
+   "de": "hier"
+  },
+  {
+   "level": "A1",
+   "en": "there",
+   "de": "dort"
+  },
+  {
+   "level": "A1",
+   "en": "left",
+   "de": "links"
+  },
+  {
+   "level": "A1",
+   "en": "right",
+   "de": "rechts"
+  },
+  {
+   "level": "A1",
+   "en": "up",
+   "de": "oben"
+  },
+  {
+   "level": "A1",
+   "en": "down",
+   "de": "unten"
+  },
+  {
+   "level": "A2",
+   "en": "kitchen",
+   "de": "Küche"
+  },
+  {
+   "level": "A2",
+   "en": "garden",
+   "de": "Garten"
+  },
+  {
+   "level": "A2",
+   "en": "street",
+   "de": "Straße"
+  },
+  {
+   "level": "A2",
+   "en": "city",
+   "de": "Stadt"
+  },
+  {
+   "level": "A2",
+   "en": "train",
+   "de": "Zug"
+  },
+  {
+   "level": "A2",
+   "en": "bicycle",
+   "de": "Fahrrad|Rad"
+  },
+  {
+   "level": "A2",
+   "en": "weather",
+   "de": "Wetter"
+  },
+  {
+   "level": "A2",
+   "en": "winter",
+   "de": "Winter"
+  },
+  {
+   "level": "A2",
+   "en": "summer",
+   "de": "Sommer"
+  },
+  {
+   "level": "A2",
+   "en": "shop",
+   "de": "Geschäft|Laden"
+  },
+  {
+   "level": "A2",
+   "en": "money",
+   "de": "Geld"
+  },
+  {
+   "level": "A2",
+   "en": "ticket",
+   "de": "Fahrkarte|Ticket"
+  },
+  {
+   "level": "A2",
+   "en": "breakfast",
+   "de": "Frühstück"
+  },
+  {
+   "level": "A2",
+   "en": "dinner",
+   "de": "Abendessen"
+  },
+  {
+   "level": "A2",
+   "en": "cheese",
+   "de": "Käse"
+  },
+  {
+   "level": "A2",
+   "en": "fish",
+   "de": "Fisch"
+  },
+  {
+   "level": "A2",
+   "en": "vegetable",
+   "de": "Gemüse"
+  },
+  {
+   "level": "A2",
+   "en": "doctor",
+   "de": "Arzt"
+  },
+  {
+   "level": "A2",
+   "en": "teacher",
+   "de": "Lehrer"
+  },
+  {
+   "level": "A2",
+   "en": "birthday",
+   "de": "Geburtstag"
+  },
+  {
+   "level": "A2",
+   "en": "holiday",
+   "de": "Urlaub|Ferien"
+  },
+  {
+   "level": "A2",
+   "en": "week",
+   "de": "Woche"
+  },
+  {
+   "level": "A2",
+   "en": "year",
+   "de": "Jahr"
+  },
+  {
+   "level": "A2",
+   "en": "cold",
+   "de": "kalt"
+  },
+  {
+   "level": "A2",
+   "en": "warm",
+   "de": "warm"
+  },
+  {
+   "level": "A2",
+   "en": "expensive",
+   "de": "teuer"
+  },
+  {
+   "level": "A2",
+   "en": "cheap",
+   "de": "billig|günstig"
+  },
+  {
+   "level": "A2",
+   "en": "to travel",
+   "de": "reisen"
+  },
+  {
+   "level": "A2",
+   "en": "to buy",
+   "de": "kaufen"
+  },
+  {
+   "level": "A2",
+   "en": "to cook",
+   "de": "kochen"
+  },
+  {
+   "level": "A2",
+   "en": "spring",
+   "de": "Frühling"
+  },
+  {
+   "level": "A2",
+   "en": "autumn",
+   "de": "Herbst"
+  },
+  {
+   "level": "A2",
+   "en": "month",
+   "de": "Monat"
+  },
+  {
+   "level": "A2",
+   "en": "hour",
+   "de": "Stunde"
+  },
+  {
+   "level": "A2",
+   "en": "minute",
+   "de": "Minute"
+  },
+  {
+   "level": "A2",
+   "en": "second",
+   "de": "Sekunde"
+  },
+  {
+   "level": "A2",
+   "en": "weekend",
+   "de": "Wochenende"
+  },
+  {
+   "level": "A2",
+   "en": "Monday",
+   "de": "Montag"
+  },
+  {
+   "level": "A2",
+   "en": "Tuesday",
+   "de": "Dienstag"
+  },
+  {
+   "level": "A2",
+   "en": "Wednesday",
+   "de": "Mittwoch"
+  },
+  {
+   "level": "A2",
+   "en": "Thursday",
+   "de": "Donnerstag"
+  },
+  {
+   "level": "A2",
+   "en": "Friday",
+   "de": "Freitag"
+  },
+  {
+   "level": "A2",
+   "en": "Saturday",
+   "de": "Samstag|Sonnabend"
+  },
+  {
+   "level": "A2",
+   "en": "Sunday",
+   "de": "Sonntag"
+  },
+  {
+   "level": "A2",
+   "en": "January",
+   "de": "Januar"
+  },
+  {
+   "level": "A2",
+   "en": "February",
+   "de": "Februar"
+  },
+  {
+   "level": "A2",
+   "en": "March",
+   "de": "März"
+  },
+  {
+   "level": "A2",
+   "en": "April",
+   "de": "April"
+  },
+  {
+   "level": "A2",
+   "en": "May",
+   "de": "Mai"
+  },
+  {
+   "level": "A2",
+   "en": "June",
+   "de": "Juni"
+  },
+  {
+   "level": "A2",
+   "en": "July",
+   "de": "Juli"
+  },
+  {
+   "level": "A2",
+   "en": "August",
+   "de": "August"
+  },
+  {
+   "level": "A2",
+   "en": "September",
+   "de": "September"
+  },
+  {
+   "level": "A2",
+   "en": "October",
+   "de": "Oktober"
+  },
+  {
+   "level": "A2",
+   "en": "November",
+   "de": "November"
+  },
+  {
+   "level": "A2",
+   "en": "December",
+   "de": "Dezember"
+  },
+  {
+   "level": "A2",
+   "en": "airport",
+   "de": "Flughafen"
+  },
+  {
+   "level": "A2",
+   "en": "plane",
+   "de": "Flugzeug"
+  },
+  {
+   "level": "A2",
+   "en": "ship",
+   "de": "Schiff"
+  },
+  {
+   "level": "A2",
+   "en": "station",
+   "de": "Bahnhof"
+  },
+  {
+   "level": "A2",
+   "en": "platform",
+   "de": "Gleis"
+  },
+  {
+   "level": "A2",
+   "en": "luggage",
+   "de": "Gepäck"
+  },
+  {
+   "level": "A2",
+   "en": "suitcase",
+   "de": "Koffer"
+  },
+  {
+   "level": "A2",
+   "en": "hotel",
+   "de": "Hotel"
+  },
+  {
+   "level": "A2",
+   "en": "passport",
+   "de": "Reisepass"
+  },
+  {
+   "level": "A2",
+   "en": "map",
+   "de": "Karte"
+  },
+  {
+   "level": "A2",
+   "en": "tourist",
+   "de": "Tourist"
+  },
+  {
+   "level": "A2",
+   "en": "beach",
+   "de": "Strand"
+  },
+  {
+   "level": "A2",
+   "en": "island",
+   "de": "Insel"
+  },
+  {
+   "level": "A2",
+   "en": "country",
+   "de": "Land"
+  },
+  {
+   "level": "A2",
+   "en": "border",
+   "de": "Grenze"
+  },
+  {
+   "level": "A2",
+   "en": "language",
+   "de": "Sprache"
+  },
+  {
+   "level": "A2",
+   "en": "pharmacy",
+   "de": "Apotheke"
+  },
+  {
+   "level": "A2",
+   "en": "hospital",
+   "de": "Krankenhaus"
+  },
+  {
+   "level": "A2",
+   "en": "medicine",
+   "de": "Medikament|Medizin"
+  },
+  {
+   "level": "A2",
+   "en": "pain",
+   "de": "Schmerz"
+  },
+  {
+   "level": "A2",
+   "en": "headache",
+   "de": "Kopfschmerzen"
+  },
+  {
+   "level": "A2",
+   "en": "fever",
+   "de": "Fieber"
+  },
+  {
+   "level": "A2",
+   "en": "cough",
+   "de": "Husten"
+  },
+  {
+   "level": "A2",
+   "en": "health",
+   "de": "Gesundheit"
+  },
+  {
+   "level": "A2",
+   "en": "nurse",
+   "de": "Krankenschwester"
+  },
+  {
+   "level": "A2",
+   "en": "dentist",
+   "de": "Zahnarzt"
+  },
+  {
+   "level": "A2",
+   "en": "post office",
+   "de": "Post"
+  },
+  {
+   "level": "A2",
+   "en": "bank",
+   "de": "Bank"
+  },
+  {
+   "level": "A2",
+   "en": "police",
+   "de": "Polizei"
+  },
+  {
+   "level": "A2",
+   "en": "office",
+   "de": "Büro"
+  },
+  {
+   "level": "A2",
+   "en": "company",
+   "de": "Firma"
+  },
+  {
+   "level": "A2",
+   "en": "job",
+   "de": "Arbeit|Job"
+  },
+  {
+   "level": "A2",
+   "en": "boss",
+   "de": "Chef"
+  },
+  {
+   "level": "A2",
+   "en": "colleague",
+   "de": "Kollege"
+  },
+  {
+   "level": "A2",
+   "en": "meeting",
+   "de": "Besprechung|Treffen"
+  },
+  {
+   "level": "A2",
+   "en": "salary",
+   "de": "Gehalt"
+  },
+  {
+   "level": "A2",
+   "en": "appointment",
+   "de": "Termin"
+  },
+  {
+   "level": "A2",
+   "en": "address",
+   "de": "Adresse"
+  },
+  {
+   "level": "A2",
+   "en": "apartment",
+   "de": "Wohnung"
+  },
+  {
+   "level": "A2",
+   "en": "rent",
+   "de": "Miete"
+  },
+  {
+   "level": "A2",
+   "en": "elevator",
+   "de": "Aufzug|Fahrstuhl"
+  },
+  {
+   "level": "A2",
+   "en": "stairs",
+   "de": "Treppe"
+  },
+  {
+   "level": "A2",
+   "en": "balcony",
+   "de": "Balkon"
+  },
+  {
+   "level": "A2",
+   "en": "basement",
+   "de": "Keller"
+  },
+  {
+   "level": "A2",
+   "en": "living room",
+   "de": "Wohnzimmer"
+  },
+  {
+   "level": "A2",
+   "en": "bedroom",
+   "de": "Schlafzimmer"
+  },
+  {
+   "level": "A2",
+   "en": "furniture",
+   "de": "Möbel"
+  },
+  {
+   "level": "A2",
+   "en": "carpet",
+   "de": "Teppich"
+  },
+  {
+   "level": "A2",
+   "en": "curtain",
+   "de": "Vorhang"
+  },
+  {
+   "level": "A2",
+   "en": "mirror",
+   "de": "Spiegel"
+  },
+  {
+   "level": "A2",
+   "en": "shower",
+   "de": "Dusche"
+  },
+  {
+   "level": "A2",
+   "en": "soap",
+   "de": "Seife"
+  },
+  {
+   "level": "A2",
+   "en": "towel",
+   "de": "Handtuch"
+  },
+  {
+   "level": "A2",
+   "en": "toothbrush",
+   "de": "Zahnbürste"
+  },
+  {
+   "level": "A2",
+   "en": "shirt",
+   "de": "Hemd"
+  },
+  {
+   "level": "A2",
+   "en": "trousers",
+   "de": "Hose"
+  },
+  {
+   "level": "A2",
+   "en": "dress",
+   "de": "Kleid"
+  },
+  {
+   "level": "A2",
+   "en": "skirt",
+   "de": "Rock"
+  },
+  {
+   "level": "A2",
+   "en": "jacket",
+   "de": "Jacke"
+  },
+  {
+   "level": "A2",
+   "en": "coat",
+   "de": "Mantel"
+  },
+  {
+   "level": "A2",
+   "en": "shoe",
+   "de": "Schuh"
+  },
+  {
+   "level": "A2",
+   "en": "sock",
+   "de": "Socke"
+  },
+  {
+   "level": "A2",
+   "en": "hat",
+   "de": "Mütze|Hut"
+  },
+  {
+   "level": "A2",
+   "en": "glove",
+   "de": "Handschuh"
+  },
+  {
+   "level": "A2",
+   "en": "scarf",
+   "de": "Schal"
+  },
+  {
+   "level": "A2",
+   "en": "umbrella",
+   "de": "Regenschirm"
+  },
+  {
+   "level": "A2",
+   "en": "glasses",
+   "de": "Brille"
+  },
+  {
+   "level": "A2",
+   "en": "ring",
+   "de": "Ring"
+  },
+  {
+   "level": "A2",
+   "en": "size",
+   "de": "Größe"
+  },
+  {
+   "level": "A2",
+   "en": "color",
+   "de": "Farbe"
+  },
+  {
+   "level": "A2",
+   "en": "price",
+   "de": "Preis"
+  },
+  {
+   "level": "A2",
+   "en": "bill",
+   "de": "Rechnung"
+  },
+  {
+   "level": "A2",
+   "en": "cash",
+   "de": "Bargeld"
+  },
+  {
+   "level": "A2",
+   "en": "supermarket",
+   "de": "Supermarkt"
+  },
+  {
+   "level": "A2",
+   "en": "butcher",
+   "de": "Metzger"
+  },
+  {
+   "level": "A2",
+   "en": "fruit",
+   "de": "Obst"
+  },
+  {
+   "level": "A2",
+   "en": "strawberry",
+   "de": "Erdbeere"
+  },
+  {
+   "level": "A2",
+   "en": "grape",
+   "de": "Traube"
+  },
+  {
+   "level": "A2",
+   "en": "pear",
+   "de": "Birne"
+  },
+  {
+   "level": "A2",
+   "en": "cherry",
+   "de": "Kirsche"
+  },
+  {
+   "level": "A2",
+   "en": "carrot",
+   "de": "Karotte|Möhre"
+  },
+  {
+   "level": "A2",
+   "en": "onion",
+   "de": "Zwiebel"
+  },
+  {
+   "level": "A2",
+   "en": "cucumber",
+   "de": "Gurke"
+  },
+  {
+   "level": "A2",
+   "en": "mushroom",
+   "de": "Pilz"
+  },
+  {
+   "level": "A2",
+   "en": "noodles",
+   "de": "Nudeln"
+  },
+  {
+   "level": "A2",
+   "en": "sausage",
+   "de": "Wurst"
+  },
+  {
+   "level": "A2",
+   "en": "ham",
+   "de": "Schinken"
+  },
+  {
+   "level": "A2",
+   "en": "honey",
+   "de": "Honig"
+  },
+  {
+   "level": "A2",
+   "en": "jam",
+   "de": "Marmelade"
+  },
+  {
+   "level": "A2",
+   "en": "chocolate",
+   "de": "Schokolade"
+  },
+  {
+   "level": "A2",
+   "en": "ice cream",
+   "de": "Eis"
+  },
+  {
+   "level": "A2",
+   "en": "menu",
+   "de": "Speisekarte"
+  },
+  {
+   "level": "A2",
+   "en": "waiter",
+   "de": "Kellner"
+  },
+  {
+   "level": "A2",
+   "en": "restaurant",
+   "de": "Restaurant"
+  },
+  {
+   "level": "A2",
+   "en": "hobby",
+   "de": "Hobby"
+  },
+  {
+   "level": "A2",
+   "en": "music",
+   "de": "Musik"
+  },
+  {
+   "level": "A2",
+   "en": "song",
+   "de": "Lied"
+  },
+  {
+   "level": "A2",
+   "en": "film",
+   "de": "Film"
+  },
+  {
+   "level": "A2",
+   "en": "game",
+   "de": "Spiel"
+  },
+  {
+   "level": "A2",
+   "en": "football",
+   "de": "Fußball"
+  },
+  {
+   "level": "A2",
+   "en": "sport",
+   "de": "Sport"
+  },
+  {
+   "level": "A2",
+   "en": "swimming pool",
+   "de": "Schwimmbad"
+  },
+  {
+   "level": "A2",
+   "en": "ball",
+   "de": "Ball"
+  },
+  {
+   "level": "A2",
+   "en": "concert",
+   "de": "Konzert"
+  },
+  {
+   "level": "A2",
+   "en": "museum",
+   "de": "Museum"
+  },
+  {
+   "level": "A2",
+   "en": "theater",
+   "de": "Theater"
+  },
+  {
+   "level": "A2",
+   "en": "party",
+   "de": "Party|Feier"
+  },
+  {
+   "level": "A2",
+   "en": "gift",
+   "de": "Geschenk"
+  },
+  {
+   "level": "A2",
+   "en": "to visit",
+   "de": "besuchen"
+  },
+  {
+   "level": "A2",
+   "en": "to wake up",
+   "de": "aufwachen"
+  },
+  {
+   "level": "A2",
+   "en": "to get up",
+   "de": "aufstehen"
+  },
+  {
+   "level": "A2",
+   "en": "to fall asleep",
+   "de": "einschlafen"
+  },
+  {
+   "level": "A2",
+   "en": "to clean",
+   "de": "putzen|aufräumen"
+  },
+  {
+   "level": "A2",
+   "en": "to repair",
+   "de": "reparieren"
+  },
+  {
+   "level": "A2",
+   "en": "to rent",
+   "de": "mieten"
+  },
+  {
+   "level": "A2",
+   "en": "to pay",
+   "de": "bezahlen"
+  },
+  {
+   "level": "A2",
+   "en": "to order",
+   "de": "bestellen"
+  },
+  {
+   "level": "A2",
+   "en": "to try",
+   "de": "versuchen"
+  },
+  {
+   "level": "A2",
+   "en": "to choose",
+   "de": "wählen"
+  },
+  {
+   "level": "A2",
+   "en": "to think",
+   "de": "denken"
+  },
+  {
+   "level": "A2",
+   "en": "to believe",
+   "de": "glauben"
+  },
+  {
+   "level": "A2",
+   "en": "to need",
+   "de": "brauchen"
+  },
+  {
+   "level": "A2",
+   "en": "to send",
+   "de": "schicken|senden"
+  },
+  {
+   "level": "A2",
+   "en": "to receive",
+   "de": "bekommen|erhalten"
+  },
+  {
+   "level": "A2",
+   "en": "to carry",
+   "de": "tragen"
+  },
+  {
+   "level": "A2",
+   "en": "to wear",
+   "de": "anhaben|tragen"
+  },
+  {
+   "level": "A2",
+   "en": "to leave",
+   "de": "verlassen"
+  },
+  {
+   "level": "A2",
+   "en": "to arrive",
+   "de": "ankommen"
+  },
+  {
+   "level": "A2",
+   "en": "to depart",
+   "de": "abfahren"
+  },
+  {
+   "level": "A2",
+   "en": "to change",
+   "de": "ändern"
+  },
+  {
+   "level": "A2",
+   "en": "to start",
+   "de": "anfangen|beginnen"
+  },
+  {
+   "level": "A2",
+   "en": "to stop",
+   "de": "aufhören"
+  },
+  {
+   "level": "A2",
+   "en": "to meet",
+   "de": "treffen"
+  },
+  {
+   "level": "A2",
+   "en": "to invite",
+   "de": "einladen"
+  },
+  {
+   "level": "A2",
+   "en": "to celebrate",
+   "de": "feiern"
+  },
+  {
+   "level": "A2",
+   "en": "to show",
+   "de": "zeigen"
+  },
+  {
+   "level": "A2",
+   "en": "to use",
+   "de": "benutzen"
+  },
+  {
+   "level": "A2",
+   "en": "to fly",
+   "de": "fliegen"
+  },
+  {
+   "level": "A2",
+   "en": "to drive",
+   "de": "fahren"
+  },
+  {
+   "level": "A2",
+   "en": "to climb",
+   "de": "klettern"
+  },
+  {
+   "level": "A2",
+   "en": "to fall",
+   "de": "fallen"
+  },
+  {
+   "level": "A2",
+   "en": "to push",
+   "de": "drücken|schieben"
+  },
+  {
+   "level": "A2",
+   "en": "to pull",
+   "de": "ziehen"
+  },
+  {
+   "level": "A2",
+   "en": "to cut",
+   "de": "schneiden"
+  },
+  {
+   "level": "B1",
+   "en": "jackal",
+   "de": "Schakal"
+  },
+  {
+   "level": "B1",
+   "en": "society",
+   "de": "Gesellschaft"
+  },
+  {
+   "level": "B1",
+   "en": "experience",
+   "de": "Erfahrung"
+  },
+  {
+   "level": "B1",
+   "en": "opinion",
+   "de": "Meinung"
+  },
+  {
+   "level": "B1",
+   "en": "environment",
+   "de": "Umwelt"
+  },
+  {
+   "level": "B1",
+   "en": "government",
+   "de": "Regierung"
+  },
+  {
+   "level": "B1",
+   "en": "advantage",
+   "de": "Vorteil"
+  },
+  {
+   "level": "B1",
+   "en": "disadvantage",
+   "de": "Nachteil"
+  },
+  {
+   "level": "B1",
+   "en": "decision",
+   "de": "Entscheidung"
+  },
+  {
+   "level": "B1",
+   "en": "development",
+   "de": "Entwicklung"
+  },
+  {
+   "level": "B1",
+   "en": "problem",
+   "de": "Problem"
+  },
+  {
+   "level": "B1",
+   "en": "solution",
+   "de": "Lösung"
+  },
+  {
+   "level": "B1",
+   "en": "success",
+   "de": "Erfolg"
+  },
+  {
+   "level": "B1",
+   "en": "adventure",
+   "de": "Abenteuer"
+  },
+  {
+   "level": "B1",
+   "en": "neighbor",
+   "de": "Nachbar"
+  },
+  {
+   "level": "B1",
+   "en": "journey",
+   "de": "Reise"
+  },
+  {
+   "level": "B1",
+   "en": "to develop",
+   "de": "entwickeln"
+  },
+  {
+   "level": "B1",
+   "en": "to suggest",
+   "de": "vorschlagen"
+  },
+  {
+   "level": "B1",
+   "en": "to explain",
+   "de": "erklären"
+  },
+  {
+   "level": "B1",
+   "en": "to forget",
+   "de": "vergessen"
+  },
+  {
+   "level": "B1",
+   "en": "to remember",
+   "de": "sich erinnern|erinnern"
+  },
+  {
+   "level": "B1",
+   "en": "to decide",
+   "de": "entscheiden"
+  },
+  {
+   "level": "B1",
+   "en": "to improve",
+   "de": "verbessern"
+  },
+  {
+   "level": "B1",
+   "en": "to compare",
+   "de": "vergleichen"
+  },
+  {
+   "level": "B1",
+   "en": "necessary",
+   "de": "notwendig|nötig"
+  },
+  {
+   "level": "B1",
+   "en": "dangerous",
+   "de": "gefährlich"
+  },
+  {
+   "level": "B1",
+   "en": "honest",
+   "de": "ehrlich"
+  },
+  {
+   "level": "B1",
+   "en": "curious",
+   "de": "neugierig"
+  },
+  {
+   "level": "B1",
+   "en": "reliable",
+   "de": "zuverlässig"
+  },
+  {
+   "level": "B1",
+   "en": "reason",
+   "de": "Grund"
+  },
+  {
+   "level": "B1",
+   "en": "purpose",
+   "de": "Zweck"
+  },
+  {
+   "level": "B1",
+   "en": "chance",
+   "de": "Chance|Gelegenheit"
+  },
+  {
+   "level": "B1",
+   "en": "risk",
+   "de": "Risiko"
+  },
+  {
+   "level": "B1",
+   "en": "danger",
+   "de": "Gefahr"
+  },
+  {
+   "level": "B1",
+   "en": "safety",
+   "de": "Sicherheit"
+  },
+  {
+   "level": "B1",
+   "en": "freedom",
+   "de": "Freiheit"
+  },
+  {
+   "level": "B1",
+   "en": "peace",
+   "de": "Frieden"
+  },
+  {
+   "level": "B1",
+   "en": "war",
+   "de": "Krieg"
+  },
+  {
+   "level": "B1",
+   "en": "law",
+   "de": "Gesetz"
+  },
+  {
+   "level": "B1",
+   "en": "duty",
+   "de": "Pflicht"
+  },
+  {
+   "level": "B1",
+   "en": "rule",
+   "de": "Regel"
+  },
+  {
+   "level": "B1",
+   "en": "crime",
+   "de": "Verbrechen"
+  },
+  {
+   "level": "B1",
+   "en": "thief",
+   "de": "Dieb"
+  },
+  {
+   "level": "B1",
+   "en": "court",
+   "de": "Gericht"
+  },
+  {
+   "level": "B1",
+   "en": "prison",
+   "de": "Gefängnis"
+  },
+  {
+   "level": "B1",
+   "en": "election",
+   "de": "Wahl"
+  },
+  {
+   "level": "B1",
+   "en": "vote",
+   "de": "Stimme"
+  },
+  {
+   "level": "B1",
+   "en": "citizen",
+   "de": "Bürger"
+  },
+  {
+   "level": "B1",
+   "en": "politics",
+   "de": "Politik"
+  },
+  {
+   "level": "B1",
+   "en": "economy",
+   "de": "Wirtschaft"
+  },
+  {
+   "level": "B1",
+   "en": "industry",
+   "de": "Industrie"
+  },
+  {
+   "level": "B1",
+   "en": "trade",
+   "de": "Handel"
+  },
+  {
+   "level": "B1",
+   "en": "tax",
+   "de": "Steuer"
+  },
+  {
+   "level": "B1",
+   "en": "income",
+   "de": "Einkommen"
+  },
+  {
+   "level": "B1",
+   "en": "debt",
+   "de": "Schulden"
+  },
+  {
+   "level": "B1",
+   "en": "insurance",
+   "de": "Versicherung"
+  },
+  {
+   "level": "B1",
+   "en": "career",
+   "de": "Karriere|Laufbahn"
+  },
+  {
+   "level": "B1",
+   "en": "application",
+   "de": "Bewerbung"
+  },
+  {
+   "level": "B1",
+   "en": "interview",
+   "de": "Vorstellungsgespräch"
+  },
+  {
+   "level": "B1",
+   "en": "qualification",
+   "de": "Qualifikation|Abschluss"
+  },
+  {
+   "level": "B1",
+   "en": "university",
+   "de": "Universität"
+  },
+  {
+   "level": "B1",
+   "en": "subject",
+   "de": "Fach"
+  },
+  {
+   "level": "B1",
+   "en": "lecture",
+   "de": "Vorlesung"
+  },
+  {
+   "level": "B1",
+   "en": "exam",
+   "de": "Prüfung"
+  },
+  {
+   "level": "B1",
+   "en": "grade",
+   "de": "Note"
+  },
+  {
+   "level": "B1",
+   "en": "education",
+   "de": "Bildung"
+  },
+  {
+   "level": "B1",
+   "en": "training",
+   "de": "Ausbildung"
+  },
+  {
+   "level": "B1",
+   "en": "course",
+   "de": "Kurs"
+  },
+  {
+   "level": "B1",
+   "en": "scholarship",
+   "de": "Stipendium"
+  },
+  {
+   "level": "B1",
+   "en": "library",
+   "de": "Bibliothek"
+  },
+  {
+   "level": "B1",
+   "en": "newspaper",
+   "de": "Zeitung"
+  },
+  {
+   "level": "B1",
+   "en": "magazine",
+   "de": "Zeitschrift"
+  },
+  {
+   "level": "B1",
+   "en": "article",
+   "de": "Artikel"
+  },
+  {
+   "level": "B1",
+   "en": "report",
+   "de": "Bericht"
+  },
+  {
+   "level": "B1",
+   "en": "news",
+   "de": "Nachrichten"
+  },
+  {
+   "level": "B1",
+   "en": "advertisement",
+   "de": "Werbung|Anzeige"
+  },
+  {
+   "level": "B1",
+   "en": "information",
+   "de": "Information|Auskunft"
+  },
+  {
+   "level": "B1",
+   "en": "message",
+   "de": "Nachricht"
+  },
+  {
+   "level": "B1",
+   "en": "internet",
+   "de": "Internet"
+  },
+  {
+   "level": "B1",
+   "en": "website",
+   "de": "Webseite"
+  },
+  {
+   "level": "B1",
+   "en": "technology",
+   "de": "Technik|Technologie"
+  },
+  {
+   "level": "B1",
+   "en": "invention",
+   "de": "Erfindung"
+  },
+  {
+   "level": "B1",
+   "en": "machine",
+   "de": "Maschine"
+  },
+  {
+   "level": "B1",
+   "en": "energy",
+   "de": "Energie"
+  },
+  {
+   "level": "B1",
+   "en": "electricity",
+   "de": "Strom"
+  },
+  {
+   "level": "B1",
+   "en": "pollution",
+   "de": "Verschmutzung"
+  },
+  {
+   "level": "B1",
+   "en": "climate",
+   "de": "Klima"
+  },
+  {
+   "level": "B1",
+   "en": "nature",
+   "de": "Natur"
+  },
+  {
+   "level": "B1",
+   "en": "animal",
+   "de": "Tier"
+  },
+  {
+   "level": "B1",
+   "en": "plant",
+   "de": "Pflanze"
+  },
+  {
+   "level": "B1",
+   "en": "resource",
+   "de": "Ressource|Rohstoff"
+  },
+  {
+   "level": "B1",
+   "en": "waste",
+   "de": "Abfall|Müll"
+  },
+  {
+   "level": "B1",
+   "en": "recycling",
+   "de": "Recycling|Wiederverwertung"
+  },
+  {
+   "level": "B1",
+   "en": "traffic",
+   "de": "Verkehr"
+  },
+  {
+   "level": "B1",
+   "en": "accident",
+   "de": "Unfall"
+  },
+  {
+   "level": "B1",
+   "en": "speed",
+   "de": "Geschwindigkeit"
+  },
+  {
+   "level": "B1",
+   "en": "distance",
+   "de": "Entfernung|Abstand"
+  },
+  {
+   "level": "B1",
+   "en": "direction",
+   "de": "Richtung"
+  },
+  {
+   "level": "B1",
+   "en": "destination",
+   "de": "Reiseziel|Ziel"
+  },
+  {
+   "level": "B1",
+   "en": "tourism",
+   "de": "Tourismus"
+  },
+  {
+   "level": "B1",
+   "en": "culture",
+   "de": "Kultur"
+  },
+  {
+   "level": "B1",
+   "en": "tradition",
+   "de": "Tradition"
+  },
+  {
+   "level": "B1",
+   "en": "custom",
+   "de": "Brauch"
+  },
+  {
+   "level": "B1",
+   "en": "religion",
+   "de": "Religion"
+  },
+  {
+   "level": "B1",
+   "en": "history",
+   "de": "Geschichte"
+  },
+  {
+   "level": "B1",
+   "en": "century",
+   "de": "Jahrhundert"
+  },
+  {
+   "level": "B1",
+   "en": "past",
+   "de": "Vergangenheit"
+  },
+  {
+   "level": "B1",
+   "en": "future",
+   "de": "Zukunft"
+  },
+  {
+   "level": "B1",
+   "en": "present",
+   "de": "Gegenwart"
+  },
+  {
+   "level": "B1",
+   "en": "memory",
+   "de": "Erinnerung|Gedächtnis"
+  },
+  {
+   "level": "B1",
+   "en": "dream",
+   "de": "Traum"
+  },
+  {
+   "level": "B1",
+   "en": "wish",
+   "de": "Wunsch"
+  },
+  {
+   "level": "B1",
+   "en": "hope",
+   "de": "Hoffnung"
+  },
+  {
+   "level": "B1",
+   "en": "fear",
+   "de": "Angst"
+  },
+  {
+   "level": "B1",
+   "en": "worry",
+   "de": "Sorge"
+  },
+  {
+   "level": "B1",
+   "en": "joy",
+   "de": "Freude"
+  },
+  {
+   "level": "B1",
+   "en": "anger",
+   "de": "Wut|Ärger"
+  },
+  {
+   "level": "B1",
+   "en": "surprise",
+   "de": "Überraschung"
+  },
+  {
+   "level": "B1",
+   "en": "mistake",
+   "de": "Fehler"
+  },
+  {
+   "level": "B1",
+   "en": "difference",
+   "de": "Unterschied"
+  },
+  {
+   "level": "B1",
+   "en": "similarity",
+   "de": "Ähnlichkeit"
+  },
+  {
+   "level": "B1",
+   "en": "example",
+   "de": "Beispiel"
+  },
+  {
+   "level": "B1",
+   "en": "question",
+   "de": "Frage"
+  },
+  {
+   "level": "B1",
+   "en": "answer",
+   "de": "Antwort"
+  },
+  {
+   "level": "B1",
+   "en": "topic",
+   "de": "Thema"
+  },
+  {
+   "level": "B1",
+   "en": "discussion",
+   "de": "Diskussion"
+  },
+  {
+   "level": "B1",
+   "en": "argument",
+   "de": "Argument|Streit"
+  },
+  {
+   "level": "B1",
+   "en": "conflict",
+   "de": "Konflikt"
+  },
+  {
+   "level": "B1",
+   "en": "promise",
+   "de": "Versprechen"
+  },
+  {
+   "level": "B1",
+   "en": "secret",
+   "de": "Geheimnis"
+  },
+  {
+   "level": "B1",
+   "en": "trust",
+   "de": "Vertrauen"
+  },
+  {
+   "level": "B1",
+   "en": "respect",
+   "de": "Respekt|Achtung"
+  },
+  {
+   "level": "B1",
+   "en": "friendship",
+   "de": "Freundschaft"
+  },
+  {
+   "level": "B1",
+   "en": "marriage",
+   "de": "Ehe|Heirat"
+  },
+  {
+   "level": "B1",
+   "en": "divorce",
+   "de": "Scheidung"
+  },
+  {
+   "level": "B1",
+   "en": "relative",
+   "de": "Verwandte"
+  },
+  {
+   "level": "B1",
+   "en": "guest",
+   "de": "Gast"
+  },
+  {
+   "level": "B1",
+   "en": "host",
+   "de": "Gastgeber"
+  },
+  {
+   "level": "B1",
+   "en": "stranger",
+   "de": "Fremder"
+  },
+  {
+   "level": "B1",
+   "en": "to prefer",
+   "de": "bevorzugen"
+  },
+  {
+   "level": "B1",
+   "en": "to expect",
+   "de": "erwarten"
+  },
+  {
+   "level": "B1",
+   "en": "to hope",
+   "de": "hoffen"
+  },
+  {
+   "level": "B1",
+   "en": "to fear",
+   "de": "fürchten"
+  },
+  {
+   "level": "B1",
+   "en": "to worry",
+   "de": "sich sorgen|sorgen"
+  },
+  {
+   "level": "B1",
+   "en": "to enjoy",
+   "de": "genießen"
+  },
+  {
+   "level": "B1",
+   "en": "to regret",
+   "de": "bereuen"
+  },
+  {
+   "level": "B1",
+   "en": "to admit",
+   "de": "zugeben"
+  },
+  {
+   "level": "B1",
+   "en": "to deny",
+   "de": "leugnen"
+  },
+  {
+   "level": "B1",
+   "en": "to refuse",
+   "de": "ablehnen|verweigern"
+  },
+  {
+   "level": "B1",
+   "en": "to accept",
+   "de": "akzeptieren|annehmen"
+  },
+  {
+   "level": "B1",
+   "en": "to agree",
+   "de": "zustimmen"
+  },
+  {
+   "level": "B1",
+   "en": "to disagree",
+   "de": "widersprechen"
+  },
+  {
+   "level": "B1",
+   "en": "to argue",
+   "de": "streiten"
+  },
+  {
+   "level": "B1",
+   "en": "to discuss",
+   "de": "besprechen|diskutieren"
+  },
+  {
+   "level": "B1",
+   "en": "to mention",
+   "de": "erwähnen"
+  },
+  {
+   "level": "B1",
+   "en": "to describe",
+   "de": "beschreiben"
+  },
+  {
+   "level": "B1",
+   "en": "to report",
+   "de": "berichten"
+  },
+  {
+   "level": "B1",
+   "en": "to inform",
+   "de": "informieren"
+  },
+  {
+   "level": "B1",
+   "en": "to warn",
+   "de": "warnen"
+  },
+  {
+   "level": "B1",
+   "en": "to advise",
+   "de": "raten|beraten"
+  },
+  {
+   "level": "B1",
+   "en": "to recommend",
+   "de": "empfehlen"
+  },
+  {
+   "level": "B1",
+   "en": "to allow",
+   "de": "erlauben"
+  },
+  {
+   "level": "B1",
+   "en": "to forbid",
+   "de": "verbieten"
+  },
+  {
+   "level": "B1",
+   "en": "to force",
+   "de": "zwingen"
+  },
+  {
+   "level": "B1",
+   "en": "to manage",
+   "de": "schaffen|bewältigen"
+  },
+  {
+   "level": "B1",
+   "en": "to succeed",
+   "de": "gelingen"
+  },
+  {
+   "level": "B1",
+   "en": "to fail",
+   "de": "scheitern"
+  },
+  {
+   "level": "B1",
+   "en": "to create",
+   "de": "erstellen|erschaffen"
+  },
+  {
+   "level": "B1",
+   "en": "to produce",
+   "de": "herstellen|produzieren"
+  },
+  {
+   "level": "B1",
+   "en": "to build",
+   "de": "bauen"
+  },
+  {
+   "level": "B1",
+   "en": "to destroy",
+   "de": "zerstören"
+  },
+  {
+   "level": "B1",
+   "en": "to damage",
+   "de": "beschädigen"
+  },
+  {
+   "level": "B1",
+   "en": "to protect",
+   "de": "schützen"
+  },
+  {
+   "level": "B1",
+   "en": "to rescue",
+   "de": "retten"
+  },
+  {
+   "level": "B1",
+   "en": "to save",
+   "de": "sparen"
+  },
+  {
+   "level": "B1",
+   "en": "to waste",
+   "de": "verschwenden"
+  },
+  {
+   "level": "B1",
+   "en": "to measure",
+   "de": "messen"
+  },
+  {
+   "level": "B1",
+   "en": "to count",
+   "de": "zählen"
+  },
+  {
+   "level": "B1",
+   "en": "to calculate",
+   "de": "berechnen"
+  },
+  {
+   "level": "B1",
+   "en": "to check",
+   "de": "kontrollieren"
+  },
+  {
+   "level": "B1",
+   "en": "to examine",
+   "de": "untersuchen"
+  },
+  {
+   "level": "B1",
+   "en": "to discover",
+   "de": "entdecken"
+  },
+  {
+   "level": "B1",
+   "en": "to invent",
+   "de": "erfinden"
+  },
+  {
+   "level": "B1",
+   "en": "to notice",
+   "de": "bemerken"
+  },
+  {
+   "level": "B1",
+   "en": "to recognize",
+   "de": "erkennen"
+  },
+  {
+   "level": "B1",
+   "en": "to understand",
+   "de": "verstehen"
+  },
+  {
+   "level": "B1",
+   "en": "to translate",
+   "de": "übersetzen"
+  },
+  {
+   "level": "B1",
+   "en": "to pronounce",
+   "de": "aussprechen"
+  },
+  {
+   "level": "B1",
+   "en": "to practice",
+   "de": "üben"
+  },
+  {
+   "level": "B1",
+   "en": "to repeat",
+   "de": "wiederholen"
+  },
+  {
+   "level": "B1",
+   "en": "to correct",
+   "de": "korrigieren"
+  },
+  {
+   "level": "B1",
+   "en": "to pass",
+   "de": "bestehen"
+  },
+  {
+   "level": "B1",
+   "en": "to participate",
+   "de": "teilnehmen"
+  },
+  {
+   "level": "B1",
+   "en": "to organize",
+   "de": "organisieren"
+  },
+  {
+   "level": "B1",
+   "en": "to arrange",
+   "de": "vereinbaren"
+  },
+  {
+   "level": "B1",
+   "en": "to postpone",
+   "de": "verschieben"
+  },
+  {
+   "level": "B1",
+   "en": "to cancel",
+   "de": "absagen|stornieren"
+  },
+  {
+   "level": "B1",
+   "en": "to reserve",
+   "de": "reservieren"
+  },
+  {
+   "level": "B1",
+   "en": "to book",
+   "de": "buchen"
+  },
+  {
+   "level": "B1",
+   "en": "to complain",
+   "de": "sich beschweren|beschweren"
+  },
+  {
+   "level": "B2",
+   "en": "challenge",
+   "de": "Herausforderung"
+  },
+  {
+   "level": "B2",
+   "en": "achievement",
+   "de": "Leistung"
+  },
+  {
+   "level": "B2",
+   "en": "responsibility",
+   "de": "Verantwortung"
+  },
+  {
+   "level": "B2",
+   "en": "relationship",
+   "de": "Beziehung"
+  },
+  {
+   "level": "B2",
+   "en": "attitude",
+   "de": "Einstellung|Haltung"
+  },
+  {
+   "level": "B2",
+   "en": "behavior",
+   "de": "Verhalten"
+  },
+  {
+   "level": "B2",
+   "en": "influence",
+   "de": "Einfluss"
+  },
+  {
+   "level": "B2",
+   "en": "consequence",
+   "de": "Folge|Konsequenz"
+  },
+  {
+   "level": "B2",
+   "en": "research",
+   "de": "Forschung"
+  },
+  {
+   "level": "B2",
+   "en": "evidence",
+   "de": "Beweis"
+  },
+  {
+   "level": "B2",
+   "en": "requirement",
+   "de": "Anforderung|Voraussetzung"
+  },
+  {
+   "level": "B2",
+   "en": "agreement",
+   "de": "Vereinbarung|Abkommen"
+  },
+  {
+   "level": "B2",
+   "en": "employment",
+   "de": "Beschäftigung"
+  },
+  {
+   "level": "B2",
+   "en": "unemployment",
+   "de": "Arbeitslosigkeit"
+  },
+  {
+   "level": "B2",
+   "en": "population",
+   "de": "Bevölkerung"
+  },
+  {
+   "level": "B2",
+   "en": "to achieve",
+   "de": "erreichen"
+  },
+  {
+   "level": "B2",
+   "en": "to demand",
+   "de": "fordern"
+  },
+  {
+   "level": "B2",
+   "en": "to claim",
+   "de": "behaupten"
+  },
+  {
+   "level": "B2",
+   "en": "to avoid",
+   "de": "vermeiden"
+  },
+  {
+   "level": "B2",
+   "en": "to support",
+   "de": "unterstützen"
+  },
+  {
+   "level": "B2",
+   "en": "to depend on",
+   "de": "abhängen von|abhängen"
+  },
+  {
+   "level": "B2",
+   "en": "to prevent",
+   "de": "verhindern"
+  },
+  {
+   "level": "B2",
+   "en": "to apply for",
+   "de": "sich bewerben um|bewerben"
+  },
+  {
+   "level": "B2",
+   "en": "to contribute",
+   "de": "beitragen"
+  },
+  {
+   "level": "B2",
+   "en": "sustainable",
+   "de": "nachhaltig"
+  },
+  {
+   "level": "B2",
+   "en": "significant",
+   "de": "erheblich|bedeutend"
+  },
+  {
+   "level": "B2",
+   "en": "reasonable",
+   "de": "vernünftig"
+  },
+  {
+   "level": "B2",
+   "en": "efficient",
+   "de": "effizient"
+  },
+  {
+   "level": "B2",
+   "en": "flexible",
+   "de": "flexibel"
+  },
+  {
+   "level": "B2",
+   "en": "independent",
+   "de": "unabhängig"
+  },
+  {
+   "level": "B2",
+   "en": "trend",
+   "de": "Trend|Tendenz"
+  },
+  {
+   "level": "B2",
+   "en": "tendency",
+   "de": "Neigung"
+  },
+  {
+   "level": "B2",
+   "en": "circumstance",
+   "de": "Umstand"
+  },
+  {
+   "level": "B2",
+   "en": "situation",
+   "de": "Lage|Situation"
+  },
+  {
+   "level": "B2",
+   "en": "condition",
+   "de": "Bedingung"
+  },
+  {
+   "level": "B2",
+   "en": "criterion",
+   "de": "Kriterium"
+  },
+  {
+   "level": "B2",
+   "en": "factor",
+   "de": "Faktor"
+  },
+  {
+   "level": "B2",
+   "en": "aspect",
+   "de": "Aspekt"
+  },
+  {
+   "level": "B2",
+   "en": "context",
+   "de": "Zusammenhang|Kontext"
+  },
+  {
+   "level": "B2",
+   "en": "concept",
+   "de": "Konzept"
+  },
+  {
+   "level": "B2",
+   "en": "approach",
+   "de": "Ansatz"
+  },
+  {
+   "level": "B2",
+   "en": "method",
+   "de": "Methode"
+  },
+  {
+   "level": "B2",
+   "en": "strategy",
+   "de": "Strategie"
+  },
+  {
+   "level": "B2",
+   "en": "measure",
+   "de": "Maßnahme"
+  },
+  {
+   "level": "B2",
+   "en": "effort",
+   "de": "Anstrengung|Bemühung"
+  },
+  {
+   "level": "B2",
+   "en": "effect",
+   "de": "Wirkung"
+  },
+  {
+   "level": "B2",
+   "en": "impact",
+   "de": "Auswirkung"
+  },
+  {
+   "level": "B2",
+   "en": "result",
+   "de": "Ergebnis"
+  },
+  {
+   "level": "B2",
+   "en": "benefit",
+   "de": "Nutzen"
+  },
+  {
+   "level": "B2",
+   "en": "profit",
+   "de": "Gewinn"
+  },
+  {
+   "level": "B2",
+   "en": "loss",
+   "de": "Verlust"
+  },
+  {
+   "level": "B2",
+   "en": "expense",
+   "de": "Ausgabe"
+  },
+  {
+   "level": "B2",
+   "en": "budget",
+   "de": "Haushalt|Budget"
+  },
+  {
+   "level": "B2",
+   "en": "investment",
+   "de": "Investition"
+  },
+  {
+   "level": "B2",
+   "en": "competition",
+   "de": "Wettbewerb|Konkurrenz"
+  },
+  {
+   "level": "B2",
+   "en": "demand",
+   "de": "Nachfrage"
+  },
+  {
+   "level": "B2",
+   "en": "offer",
+   "de": "Angebot"
+  },
+  {
+   "level": "B2",
+   "en": "supply",
+   "de": "Versorgung"
+  },
+  {
+   "level": "B2",
+   "en": "consumer",
+   "de": "Verbraucher"
+  },
+  {
+   "level": "B2",
+   "en": "customer",
+   "de": "Kunde"
+  },
+  {
+   "level": "B2",
+   "en": "service",
+   "de": "Dienstleistung"
+  },
+  {
+   "level": "B2",
+   "en": "quality",
+   "de": "Qualität"
+  },
+  {
+   "level": "B2",
+   "en": "quantity",
+   "de": "Menge"
+  },
+  {
+   "level": "B2",
+   "en": "majority",
+   "de": "Mehrheit"
+  },
+  {
+   "level": "B2",
+   "en": "minority",
+   "de": "Minderheit"
+  },
+  {
+   "level": "B2",
+   "en": "average",
+   "de": "Durchschnitt"
+  },
+  {
+   "level": "B2",
+   "en": "proportion",
+   "de": "Anteil"
+  },
+  {
+   "level": "B2",
+   "en": "amount",
+   "de": "Betrag"
+  },
+  {
+   "level": "B2",
+   "en": "increase",
+   "de": "Anstieg"
+  },
+  {
+   "level": "B2",
+   "en": "decline",
+   "de": "Rückgang"
+  },
+  {
+   "level": "B2",
+   "en": "shortage",
+   "de": "Mangel"
+  },
+  {
+   "level": "B2",
+   "en": "surplus",
+   "de": "Überschuss"
+  },
+  {
+   "level": "B2",
+   "en": "poverty",
+   "de": "Armut"
+  },
+  {
+   "level": "B2",
+   "en": "wealth",
+   "de": "Reichtum"
+  },
+  {
+   "level": "B2",
+   "en": "welfare",
+   "de": "Fürsorge|Wohlfahrt"
+  },
+  {
+   "level": "B2",
+   "en": "pension",
+   "de": "Rente"
+  },
+  {
+   "level": "B2",
+   "en": "immigration",
+   "de": "Einwanderung"
+  },
+  {
+   "level": "B2",
+   "en": "refugee",
+   "de": "Flüchtling"
+  },
+  {
+   "level": "B2",
+   "en": "integration",
+   "de": "Integration"
+  },
+  {
+   "level": "B2",
+   "en": "discrimination",
+   "de": "Diskriminierung"
+  },
+  {
+   "level": "B2",
+   "en": "equality",
+   "de": "Gleichheit"
+  },
+  {
+   "level": "B2",
+   "en": "justice",
+   "de": "Gerechtigkeit"
+  },
+  {
+   "level": "B2",
+   "en": "democracy",
+   "de": "Demokratie"
+  },
+  {
+   "level": "B2",
+   "en": "parliament",
+   "de": "Parlament"
+  },
+  {
+   "level": "B2",
+   "en": "campaign",
+   "de": "Kampagne"
+  },
+  {
+   "level": "B2",
+   "en": "authority",
+   "de": "Behörde|Autorität"
+  },
+  {
+   "level": "B2",
+   "en": "administration",
+   "de": "Verwaltung"
+  },
+  {
+   "level": "B2",
+   "en": "regulation",
+   "de": "Vorschrift|Regelung"
+  },
+  {
+   "level": "B2",
+   "en": "permission",
+   "de": "Erlaubnis|Genehmigung"
+  },
+  {
+   "level": "B2",
+   "en": "restriction",
+   "de": "Begrenzung"
+  },
+  {
+   "level": "B2",
+   "en": "obligation",
+   "de": "Verpflichtung"
+  },
+  {
+   "level": "B2",
+   "en": "contract",
+   "de": "Vertrag"
+  },
+  {
+   "level": "B2",
+   "en": "complaint",
+   "de": "Beschwerde"
+  },
+  {
+   "level": "B2",
+   "en": "dispute",
+   "de": "Auseinandersetzung"
+  },
+  {
+   "level": "B2",
+   "en": "compromise",
+   "de": "Kompromiss"
+  },
+  {
+   "level": "B2",
+   "en": "proposal",
+   "de": "Vorschlag"
+  },
+  {
+   "level": "B2",
+   "en": "request",
+   "de": "Anfrage"
+  },
+  {
+   "level": "B2",
+   "en": "reply",
+   "de": "Rückmeldung|Erwiderung"
+  },
+  {
+   "level": "B2",
+   "en": "statement",
+   "de": "Aussage"
+  },
+  {
+   "level": "B2",
+   "en": "comment",
+   "de": "Kommentar|Bemerkung"
+  },
+  {
+   "level": "B2",
+   "en": "debate",
+   "de": "Debatte"
+  },
+  {
+   "level": "B2",
+   "en": "criticism",
+   "de": "Kritik"
+  },
+  {
+   "level": "B2",
+   "en": "praise",
+   "de": "Lob"
+  },
+  {
+   "level": "B2",
+   "en": "reputation",
+   "de": "Ruf"
+  },
+  {
+   "level": "B2",
+   "en": "personality",
+   "de": "Persönlichkeit"
+  },
+  {
+   "level": "B2",
+   "en": "character",
+   "de": "Charakter|Eigenschaft"
+  },
+  {
+   "level": "B2",
+   "en": "talent",
+   "de": "Begabung|Talent"
+  },
+  {
+   "level": "B2",
+   "en": "skill",
+   "de": "Fähigkeit"
+  },
+  {
+   "level": "B2",
+   "en": "strength",
+   "de": "Stärke"
+  },
+  {
+   "level": "B2",
+   "en": "weakness",
+   "de": "Schwäche"
+  },
+  {
+   "level": "B2",
+   "en": "motivation",
+   "de": "Motivation"
+  },
+  {
+   "level": "B2",
+   "en": "ambition",
+   "de": "Ehrgeiz"
+  },
+  {
+   "level": "B2",
+   "en": "curiosity",
+   "de": "Neugier"
+  },
+  {
+   "level": "B2",
+   "en": "confidence",
+   "de": "Selbstvertrauen"
+  },
+  {
+   "level": "B2",
+   "en": "doubt",
+   "de": "Zweifel"
+  },
+  {
+   "level": "B2",
+   "en": "guilt",
+   "de": "Schuld"
+  },
+  {
+   "level": "B2",
+   "en": "shame",
+   "de": "Scham"
+  },
+  {
+   "level": "B2",
+   "en": "stress",
+   "de": "Stress"
+  },
+  {
+   "level": "B2",
+   "en": "pressure",
+   "de": "Druck"
+  },
+  {
+   "level": "B2",
+   "en": "burden",
+   "de": "Belastung|Last"
+  },
+  {
+   "level": "B2",
+   "en": "crisis",
+   "de": "Krise"
+  },
+  {
+   "level": "B2",
+   "en": "disaster",
+   "de": "Katastrophe"
+  },
+  {
+   "level": "B2",
+   "en": "emergency",
+   "de": "Notfall"
+  },
+  {
+   "level": "B2",
+   "en": "damage",
+   "de": "Schaden"
+  },
+  {
+   "level": "B2",
+   "en": "injury",
+   "de": "Verletzung"
+  },
+  {
+   "level": "B2",
+   "en": "illness",
+   "de": "Krankheit"
+  },
+  {
+   "level": "B2",
+   "en": "treatment",
+   "de": "Behandlung"
+  },
+  {
+   "level": "B2",
+   "en": "therapy",
+   "de": "Therapie"
+  },
+  {
+   "level": "B2",
+   "en": "prescription",
+   "de": "Rezept"
+  },
+  {
+   "level": "B2",
+   "en": "symptom",
+   "de": "Symptom"
+  },
+  {
+   "level": "B2",
+   "en": "diagnosis",
+   "de": "Diagnose"
+  },
+  {
+   "level": "B2",
+   "en": "surgery",
+   "de": "Operation"
+  },
+  {
+   "level": "B2",
+   "en": "vaccination",
+   "de": "Impfung"
+  },
+  {
+   "level": "B2",
+   "en": "addiction",
+   "de": "Sucht"
+  },
+  {
+   "level": "B2",
+   "en": "nutrition",
+   "de": "Ernährung"
+  },
+  {
+   "level": "B2",
+   "en": "diet",
+   "de": "Diät"
+  },
+  {
+   "level": "B2",
+   "en": "habit",
+   "de": "Gewohnheit"
+  },
+  {
+   "level": "B2",
+   "en": "lifestyle",
+   "de": "Lebensstil"
+  },
+  {
+   "level": "B2",
+   "en": "routine",
+   "de": "Routine|Alltag"
+  },
+  {
+   "level": "B2",
+   "en": "leisure",
+   "de": "Freizeit"
+  },
+  {
+   "level": "B2",
+   "en": "entertainment",
+   "de": "Unterhaltung"
+  },
+  {
+   "level": "B2",
+   "en": "exhibition",
+   "de": "Ausstellung"
+  },
+  {
+   "level": "B2",
+   "en": "festival",
+   "de": "Fest|Festival"
+  },
+  {
+   "level": "B2",
+   "en": "ceremony",
+   "de": "Zeremonie"
+  },
+  {
+   "level": "B2",
+   "en": "architecture",
+   "de": "Architektur"
+  },
+  {
+   "level": "B2",
+   "en": "monument",
+   "de": "Denkmal"
+  },
+  {
+   "level": "B2",
+   "en": "heritage",
+   "de": "Erbe"
+  },
+  {
+   "level": "B2",
+   "en": "literature",
+   "de": "Literatur"
+  },
+  {
+   "level": "B2",
+   "en": "novel",
+   "de": "Roman"
+  },
+  {
+   "level": "B2",
+   "en": "poem",
+   "de": "Gedicht"
+  },
+  {
+   "level": "B2",
+   "en": "author",
+   "de": "Autor"
+  },
+  {
+   "level": "B2",
+   "en": "publisher",
+   "de": "Verlag"
+  },
+  {
+   "level": "B2",
+   "en": "translation",
+   "de": "Übersetzung"
+  },
+  {
+   "level": "B2",
+   "en": "vocabulary",
+   "de": "Wortschatz|Vokabeln"
+  },
+  {
+   "level": "B2",
+   "en": "grammar",
+   "de": "Grammatik"
+  },
+  {
+   "level": "B2",
+   "en": "pronunciation",
+   "de": "Aussprache"
+  },
+  {
+   "level": "B2",
+   "en": "accent",
+   "de": "Akzent"
+  },
+  {
+   "level": "B2",
+   "en": "to establish",
+   "de": "gründen|errichten"
+  },
+  {
+   "level": "B2",
+   "en": "to launch",
+   "de": "einführen"
+  },
+  {
+   "level": "B2",
+   "en": "to adapt",
+   "de": "anpassen"
+  },
+  {
+   "level": "B2",
+   "en": "to adjust",
+   "de": "einstellen"
+  },
+  {
+   "level": "B2",
+   "en": "to adopt",
+   "de": "übernehmen"
+  },
+  {
+   "level": "B2",
+   "en": "to affect",
+   "de": "beeinflussen"
+  },
+  {
+   "level": "B2",
+   "en": "to aim",
+   "de": "anstreben"
+  },
+  {
+   "level": "B2",
+   "en": "to analyze",
+   "de": "analysieren"
+  },
+  {
+   "level": "B2",
+   "en": "to appear",
+   "de": "erscheinen"
+  },
+  {
+   "level": "B2",
+   "en": "to approve",
+   "de": "genehmigen"
+  },
+  {
+   "level": "B2",
+   "en": "to arise",
+   "de": "entstehen"
+  },
+  {
+   "level": "B2",
+   "en": "to assume",
+   "de": "vermuten"
+  },
+  {
+   "level": "B2",
+   "en": "to attract",
+   "de": "anziehen|anlocken"
+  },
+  {
+   "level": "B2",
+   "en": "to cause",
+   "de": "verursachen"
+  },
+  {
+   "level": "B2",
+   "en": "to challenge",
+   "de": "herausfordern"
+  },
+  {
+   "level": "B2",
+   "en": "to combine",
+   "de": "kombinieren"
+  },
+  {
+   "level": "B2",
+   "en": "to concentrate",
+   "de": "konzentrieren"
+  },
+  {
+   "level": "B2",
+   "en": "to conclude",
+   "de": "folgern|schließen"
+  },
+  {
+   "level": "B2",
+   "en": "to conduct",
+   "de": "durchführen"
+  },
+  {
+   "level": "B2",
+   "en": "to confirm",
+   "de": "bestätigen"
+  },
+  {
+   "level": "B2",
+   "en": "to consider",
+   "de": "erwägen|betrachten"
+  },
+  {
+   "level": "B2",
+   "en": "to convince",
+   "de": "überzeugen"
+  },
+  {
+   "level": "B2",
+   "en": "to cope",
+   "de": "zurechtkommen"
+  },
+  {
+   "level": "B2",
+   "en": "to criticize",
+   "de": "kritisieren"
+  },
+  {
+   "level": "B2",
+   "en": "to define",
+   "de": "definieren"
+  },
+  {
+   "level": "B2",
+   "en": "to delay",
+   "de": "verzögern"
+  },
+  {
+   "level": "B2",
+   "en": "to deliver",
+   "de": "liefern"
+  },
+  {
+   "level": "B2",
+   "en": "to prove",
+   "de": "beweisen"
+  },
+  {
+   "level": "B2",
+   "en": "to derive",
+   "de": "ableiten"
+  },
+  {
+   "level": "B2",
+   "en": "to determine",
+   "de": "bestimmen"
+  },
+  {
+   "level": "B2",
+   "en": "to distinguish",
+   "de": "unterscheiden"
+  },
+  {
+   "level": "B2",
+   "en": "to distribute",
+   "de": "verteilen"
+  },
+  {
+   "level": "B2",
+   "en": "to divide",
+   "de": "aufteilen"
+  },
+  {
+   "level": "B2",
+   "en": "to emphasize",
+   "de": "betonen"
+  },
+  {
+   "level": "B2",
+   "en": "to encourage",
+   "de": "ermutigen"
+  },
+  {
+   "level": "B2",
+   "en": "to ensure",
+   "de": "sicherstellen"
+  },
+  {
+   "level": "B2",
+   "en": "to estimate",
+   "de": "schätzen"
+  },
+  {
+   "level": "B2",
+   "en": "to evaluate",
+   "de": "auswerten"
+  },
+  {
+   "level": "B2",
+   "en": "to exceed",
+   "de": "übertreffen|überschreiten"
+  },
+  {
+   "level": "B2",
+   "en": "to exclude",
+   "de": "ausschließen"
+  },
+  {
+   "level": "B2",
+   "en": "to expand",
+   "de": "erweitern"
+  },
+  {
+   "level": "B2",
+   "en": "to explore",
+   "de": "erforschen"
+  },
+  {
+   "level": "B2",
+   "en": "to extend",
+   "de": "verlängern"
+  },
+  {
+   "level": "C1",
+   "en": "prosperity",
+   "de": "Wohlstand"
+  },
+  {
+   "level": "C1",
+   "en": "sovereignty",
+   "de": "Souveränität"
+  },
+  {
+   "level": "C1",
+   "en": "inequality",
+   "de": "Ungleichheit"
+  },
+  {
+   "level": "C1",
+   "en": "negotiation",
+   "de": "Verhandlung"
+  },
+  {
+   "level": "C1",
+   "en": "subsidy",
+   "de": "Subvention"
+  },
+  {
+   "level": "C1",
+   "en": "legislation",
+   "de": "Gesetzgebung"
+  },
+  {
+   "level": "C1",
+   "en": "jurisdiction",
+   "de": "Rechtsprechung|Gerichtsbarkeit"
+  },
+  {
+   "level": "C1",
+   "en": "prejudice",
+   "de": "Vorurteil"
+  },
+  {
+   "level": "C1",
+   "en": "perception",
+   "de": "Wahrnehmung"
+  },
+  {
+   "level": "C1",
+   "en": "tolerance",
+   "de": "Toleranz"
+  },
+  {
+   "level": "C1",
+   "en": "constraint",
+   "de": "Einschränkung|Beschränkung"
+  },
+  {
+   "level": "C1",
+   "en": "phenomenon",
+   "de": "Phänomen"
+  },
+  {
+   "level": "C1",
+   "en": "hypothesis",
+   "de": "Hypothese"
+  },
+  {
+   "level": "C1",
+   "en": "inevitable",
+   "de": "unvermeidlich|unvermeidbar"
+  },
+  {
+   "level": "C1",
+   "en": "ambiguous",
+   "de": "mehrdeutig|zweideutig"
+  },
+  {
+   "level": "C1",
+   "en": "reluctant",
+   "de": "widerwillig|zögerlich"
+  },
+  {
+   "level": "C1",
+   "en": "profound",
+   "de": "tiefgreifend|tiefgründig"
+  },
+  {
+   "level": "C1",
+   "en": "meticulous",
+   "de": "sorgfältig|akribisch"
+  },
+  {
+   "level": "C1",
+   "en": "to undermine",
+   "de": "untergraben"
+  },
+  {
+   "level": "C1",
+   "en": "to enforce",
+   "de": "durchsetzen"
+  },
+  {
+   "level": "C1",
+   "en": "to alleviate",
+   "de": "lindern"
+  },
+  {
+   "level": "C1",
+   "en": "to scrutinize",
+   "de": "prüfen|durchleuchten"
+  },
+  {
+   "level": "C1",
+   "en": "to disregard",
+   "de": "missachten"
+  },
+  {
+   "level": "C1",
+   "en": "to exacerbate",
+   "de": "verschärfen"
+  },
+  {
+   "level": "C1",
+   "en": "to foster",
+   "de": "fördern"
+  },
+  {
+   "level": "C1",
+   "en": "to implement",
+   "de": "umsetzen"
+  },
+  {
+   "level": "C1",
+   "en": "to assess",
+   "de": "beurteilen|bewerten"
+  },
+  {
+   "level": "C1",
+   "en": "to constitute",
+   "de": "darstellen|bilden"
+  },
+  {
+   "level": "C1",
+   "en": "to acknowledge",
+   "de": "anerkennen|eingestehen"
+  },
+  {
+   "level": "C1",
+   "en": "to overcome",
+   "de": "überwinden"
+  },
+  {
+   "level": "C1",
+   "en": "paradigm",
+   "de": "Paradigma"
+  },
+  {
+   "level": "C1",
+   "en": "discourse",
+   "de": "Diskurs"
+  },
+  {
+   "level": "C1",
+   "en": "nuance",
+   "de": "Nuance"
+  },
+  {
+   "level": "C1",
+   "en": "dilemma",
+   "de": "Dilemma"
+  },
+  {
+   "level": "C1",
+   "en": "contradiction",
+   "de": "Widerspruch"
+  },
+  {
+   "level": "C1",
+   "en": "paradox",
+   "de": "Paradoxon"
+  },
+  {
+   "level": "C1",
+   "en": "premise",
+   "de": "Prämisse"
+  },
+  {
+   "level": "C1",
+   "en": "assumption",
+   "de": "Annahme"
+  },
+  {
+   "level": "C1",
+   "en": "implication",
+   "de": "Folgerung|Implikation"
+  },
+  {
+   "level": "C1",
+   "en": "correlation",
+   "de": "Korrelation"
+  },
+  {
+   "level": "C1",
+   "en": "causality",
+   "de": "Kausalität"
+  },
+  {
+   "level": "C1",
+   "en": "benchmark",
+   "de": "Maßstab"
+  },
+  {
+   "level": "C1",
+   "en": "threshold",
+   "de": "Schwelle"
+  },
+  {
+   "level": "C1",
+   "en": "scope",
+   "de": "Umfang"
+  },
+  {
+   "level": "C1",
+   "en": "magnitude",
+   "de": "Ausmaß"
+  },
+  {
+   "level": "C1",
+   "en": "complexity",
+   "de": "Komplexität"
+  },
+  {
+   "level": "C1",
+   "en": "ambiguity",
+   "de": "Mehrdeutigkeit"
+  },
+  {
+   "level": "C1",
+   "en": "coherence",
+   "de": "Kohärenz"
+  },
+  {
+   "level": "C1",
+   "en": "consistency",
+   "de": "Beständigkeit"
+  },
+  {
+   "level": "C1",
+   "en": "discrepancy",
+   "de": "Diskrepanz"
+  },
+  {
+   "level": "C1",
+   "en": "disparity",
+   "de": "Gefälle"
+  },
+  {
+   "level": "C1",
+   "en": "margin",
+   "de": "Spanne"
+  },
+  {
+   "level": "C1",
+   "en": "deficit",
+   "de": "Defizit"
+  },
+  {
+   "level": "C1",
+   "en": "inflation",
+   "de": "Inflation"
+  },
+  {
+   "level": "C1",
+   "en": "recession",
+   "de": "Rezession"
+  },
+  {
+   "level": "C1",
+   "en": "austerity",
+   "de": "Sparpolitik"
+  },
+  {
+   "level": "C1",
+   "en": "taxation",
+   "de": "Besteuerung"
+  },
+  {
+   "level": "C1",
+   "en": "revenue",
+   "de": "Einnahmen"
+  },
+  {
+   "level": "C1",
+   "en": "expenditure",
+   "de": "Ausgaben"
+  },
+  {
+   "level": "C1",
+   "en": "liability",
+   "de": "Haftung"
+  },
+  {
+   "level": "C1",
+   "en": "accountability",
+   "de": "Rechenschaftspflicht"
+  },
+  {
+   "level": "C1",
+   "en": "transparency",
+   "de": "Transparenz"
+  },
+  {
+   "level": "C1",
+   "en": "integrity",
+   "de": "Integrität"
+  },
+  {
+   "level": "C1",
+   "en": "legitimacy",
+   "de": "Legitimität"
+  },
+  {
+   "level": "C1",
+   "en": "hierarchy",
+   "de": "Hierarchie"
+  },
+  {
+   "level": "C1",
+   "en": "bureaucracy",
+   "de": "Bürokratie"
+  },
+  {
+   "level": "C1",
+   "en": "diplomacy",
+   "de": "Diplomatie"
+  },
+  {
+   "level": "C1",
+   "en": "alliance",
+   "de": "Bündnis"
+  },
+  {
+   "level": "C1",
+   "en": "treaty",
+   "de": "Staatsvertrag"
+  },
+  {
+   "level": "C1",
+   "en": "sanction",
+   "de": "Sanktion"
+  },
+  {
+   "level": "C1",
+   "en": "embargo",
+   "de": "Embargo"
+  },
+  {
+   "level": "C1",
+   "en": "uprising",
+   "de": "Aufstand"
+  },
+  {
+   "level": "C1",
+   "en": "revolution",
+   "de": "Revolution"
+  },
+  {
+   "level": "C1",
+   "en": "oppression",
+   "de": "Unterdrückung"
+  },
+  {
+   "level": "C1",
+   "en": "persecution",
+   "de": "Verfolgung"
+  },
+  {
+   "level": "C1",
+   "en": "asylum",
+   "de": "Asyl"
+  },
+  {
+   "level": "C1",
+   "en": "citizenship",
+   "de": "Staatsbürgerschaft"
+  },
+  {
+   "level": "C1",
+   "en": "constitution",
+   "de": "Verfassung"
+  },
+  {
+   "level": "C1",
+   "en": "amendment",
+   "de": "Novelle"
+  },
+  {
+   "level": "C1",
+   "en": "verdict",
+   "de": "Urteil"
+  },
+  {
+   "level": "C1",
+   "en": "sentence",
+   "de": "Strafe"
+  },
+  {
+   "level": "C1",
+   "en": "plaintiff",
+   "de": "Kläger"
+  },
+  {
+   "level": "C1",
+   "en": "defendant",
+   "de": "Angeklagte"
+  },
+  {
+   "level": "C1",
+   "en": "witness",
+   "de": "Zeuge"
+  },
+  {
+   "level": "C1",
+   "en": "testimony",
+   "de": "Zeugenaussage"
+  },
+  {
+   "level": "C1",
+   "en": "suspect",
+   "de": "Verdächtige"
+  },
+  {
+   "level": "C1",
+   "en": "fraud",
+   "de": "Betrug"
+  },
+  {
+   "level": "C1",
+   "en": "corruption",
+   "de": "Korruption"
+  },
+  {
+   "level": "C1",
+   "en": "bribery",
+   "de": "Bestechung"
+  },
+  {
+   "level": "C1",
+   "en": "embezzlement",
+   "de": "Veruntreuung"
+  },
+  {
+   "level": "C1",
+   "en": "lawsuit",
+   "de": "Klage|Prozess"
+  },
+  {
+   "level": "C1",
+   "en": "appeal",
+   "de": "Berufung"
+  },
+  {
+   "level": "C1",
+   "en": "settlement",
+   "de": "Vergleich"
+  },
+  {
+   "level": "C1",
+   "en": "compensation",
+   "de": "Entschädigung"
+  },
+  {
+   "level": "C1",
+   "en": "negligence",
+   "de": "Fahrlässigkeit"
+  },
+  {
+   "level": "C1",
+   "en": "breakthrough",
+   "de": "Durchbruch"
+  },
+  {
+   "level": "C1",
+   "en": "advancement",
+   "de": "Fortschritt"
+  },
+  {
+   "level": "C1",
+   "en": "innovation",
+   "de": "Neuerung|Innovation"
+  },
+  {
+   "level": "C1",
+   "en": "prototype",
+   "de": "Prototyp"
+  },
+  {
+   "level": "C1",
+   "en": "algorithm",
+   "de": "Algorithmus"
+  },
+  {
+   "level": "C1",
+   "en": "simulation",
+   "de": "Simulation"
+  },
+  {
+   "level": "C1",
+   "en": "sustainability",
+   "de": "Nachhaltigkeit"
+  },
+  {
+   "level": "C1",
+   "en": "biodiversity",
+   "de": "Artenvielfalt"
+  },
+  {
+   "level": "C1",
+   "en": "ecosystem",
+   "de": "Ökosystem"
+  },
+  {
+   "level": "C1",
+   "en": "emission",
+   "de": "Ausstoß|Emission"
+  },
+  {
+   "level": "C1",
+   "en": "greenhouse gas",
+   "de": "Treibhausgas"
+  },
+  {
+   "level": "C1",
+   "en": "drought",
+   "de": "Dürre"
+  },
+  {
+   "level": "C1",
+   "en": "flood",
+   "de": "Überschwemmung"
+  },
+  {
+   "level": "C1",
+   "en": "famine",
+   "de": "Hungersnot"
+  },
+  {
+   "level": "C1",
+   "en": "epidemic",
+   "de": "Epidemie"
+  },
+  {
+   "level": "C1",
+   "en": "pandemic",
+   "de": "Pandemie"
+  },
+  {
+   "level": "C1",
+   "en": "immunity",
+   "de": "Immunität"
+  },
+  {
+   "level": "C1",
+   "en": "mutation",
+   "de": "Mutation"
+  },
+  {
+   "level": "C1",
+   "en": "genome",
+   "de": "Genom"
+  },
+  {
+   "level": "C1",
+   "en": "cell",
+   "de": "Zelle"
+  },
+  {
+   "level": "C1",
+   "en": "molecule",
+   "de": "Molekül"
+  },
+  {
+   "level": "C1",
+   "en": "gravity",
+   "de": "Schwerkraft"
+  },
+  {
+   "level": "C1",
+   "en": "radiation",
+   "de": "Strahlung"
+  },
+  {
+   "level": "C1",
+   "en": "ideology",
+   "de": "Ideologie"
+  },
+  {
+   "level": "C1",
+   "en": "philosophy",
+   "de": "Philosophie"
+  },
+  {
+   "level": "C1",
+   "en": "ethics",
+   "de": "Ethik"
+  },
+  {
+   "level": "C1",
+   "en": "morality",
+   "de": "Moral"
+  },
+  {
+   "level": "C1",
+   "en": "conscience",
+   "de": "Gewissen"
+  },
+  {
+   "level": "C1",
+   "en": "virtue",
+   "de": "Tugend"
+  },
+  {
+   "level": "C1",
+   "en": "vice",
+   "de": "Laster"
+  },
+  {
+   "level": "C1",
+   "en": "stereotype",
+   "de": "Klischee|Stereotyp"
+  },
+  {
+   "level": "C1",
+   "en": "bias",
+   "de": "Voreingenommenheit"
+  },
+  {
+   "level": "C1",
+   "en": "taboo",
+   "de": "Tabu"
+  },
+  {
+   "level": "C1",
+   "en": "ritual",
+   "de": "Ritual"
+  },
+  {
+   "level": "C1",
+   "en": "myth",
+   "de": "Mythos"
+  },
+  {
+   "level": "C1",
+   "en": "legend",
+   "de": "Sage|Legende"
+  },
+  {
+   "level": "C1",
+   "en": "irony",
+   "de": "Ironie"
+  },
+  {
+   "level": "C1",
+   "en": "satire",
+   "de": "Satire"
+  },
+  {
+   "level": "C1",
+   "en": "metaphor",
+   "de": "Metapher"
+  },
+  {
+   "level": "C1",
+   "en": "allegory",
+   "de": "Allegorie"
+  },
+  {
+   "level": "C1",
+   "en": "rhetoric",
+   "de": "Rhetorik"
+  },
+  {
+   "level": "C1",
+   "en": "controversy",
+   "de": "Kontroverse|Streitfrage"
+  },
+  {
+   "level": "C1",
+   "en": "scandal",
+   "de": "Skandal"
+  },
+  {
+   "level": "C1",
+   "en": "propaganda",
+   "de": "Propaganda"
+  },
+  {
+   "level": "C1",
+   "en": "censorship",
+   "de": "Zensur"
+  },
+  {
+   "level": "C1",
+   "en": "surveillance",
+   "de": "Überwachung"
+  },
+  {
+   "level": "C1",
+   "en": "privacy",
+   "de": "Privatsphäre"
+  },
+  {
+   "level": "C1",
+   "en": "anonymity",
+   "de": "Anonymität"
+  },
+  {
+   "level": "C1",
+   "en": "to accommodate",
+   "de": "unterbringen|berücksichtigen"
+  },
+  {
+   "level": "C1",
+   "en": "to accumulate",
+   "de": "anhäufen|ansammeln"
+  },
+  {
+   "level": "C1",
+   "en": "to advocate",
+   "de": "befürworten"
+  },
+  {
+   "level": "C1",
+   "en": "to allocate",
+   "de": "zuweisen"
+  },
+  {
+   "level": "C1",
+   "en": "to amend",
+   "de": "abändern"
+  },
+  {
+   "level": "C1",
+   "en": "to articulate",
+   "de": "artikulieren|formulieren"
+  },
+  {
+   "level": "C1",
+   "en": "to circumvent",
+   "de": "umgehen"
+  },
+  {
+   "level": "C1",
+   "en": "to clarify",
+   "de": "klarstellen|klären"
+  },
+  {
+   "level": "C1",
+   "en": "to coincide",
+   "de": "zusammenfallen"
+  },
+  {
+   "level": "C1",
+   "en": "to collaborate",
+   "de": "zusammenarbeiten"
+  },
+  {
+   "level": "C1",
+   "en": "to commemorate",
+   "de": "gedenken"
+  },
+  {
+   "level": "C1",
+   "en": "to compensate",
+   "de": "ausgleichen|entschädigen"
+  },
+  {
+   "level": "C1",
+   "en": "to complement",
+   "de": "ergänzen"
+  },
+  {
+   "level": "C1",
+   "en": "to comply",
+   "de": "einhalten|befolgen"
+  },
+  {
+   "level": "C1",
+   "en": "to comprehend",
+   "de": "begreifen"
+  },
+  {
+   "level": "C1",
+   "en": "to concede",
+   "de": "einräumen"
+  },
+  {
+   "level": "C1",
+   "en": "to condemn",
+   "de": "verurteilen"
+  },
+  {
+   "level": "C1",
+   "en": "to confer",
+   "de": "übertragen"
+  },
+  {
+   "level": "C1",
+   "en": "to confine",
+   "de": "beschränken"
+  },
+  {
+   "level": "C1",
+   "en": "to confront",
+   "de": "konfrontieren"
+  },
+  {
+   "level": "C1",
+   "en": "to converge",
+   "de": "zusammenlaufen"
+  },
+  {
+   "level": "C1",
+   "en": "to cultivate",
+   "de": "anbauen|kultivieren"
+  },
+  {
+   "level": "C1",
+   "en": "to curb",
+   "de": "eindämmen"
+  },
+  {
+   "level": "C1",
+   "en": "to deteriorate",
+   "de": "sich verschlechtern"
+  },
+  {
+   "level": "C1",
+   "en": "to deter",
+   "de": "abschrecken"
+  },
+  {
+   "level": "C1",
+   "en": "to diminish",
+   "de": "schwinden"
+  },
+  {
+   "level": "C1",
+   "en": "to discern",
+   "de": "wahrnehmen"
+  },
+  {
+   "level": "C1",
+   "en": "to disclose",
+   "de": "offenlegen"
+  },
+  {
+   "level": "C1",
+   "en": "to discriminate",
+   "de": "diskriminieren"
+  },
+  {
+   "level": "C1",
+   "en": "to dismantle",
+   "de": "abbauen|demontieren"
+  },
+  {
+   "level": "C1",
+   "en": "to dispel",
+   "de": "zerstreuen"
+  },
+  {
+   "level": "C1",
+   "en": "to disrupt",
+   "de": "stören"
+  },
+  {
+   "level": "C1",
+   "en": "to dissolve",
+   "de": "auflösen"
+  },
+  {
+   "level": "C1",
+   "en": "to distort",
+   "de": "verzerren"
+  },
+  {
+   "level": "C1",
+   "en": "to divert",
+   "de": "umleiten|ablenken"
+  },
+  {
+   "level": "C1",
+   "en": "to dominate",
+   "de": "beherrschen"
+  },
+  {
+   "level": "C1",
+   "en": "to elaborate",
+   "de": "ausarbeiten"
+  },
+  {
+   "level": "C1",
+   "en": "to eliminate",
+   "de": "beseitigen"
+  },
+  {
+   "level": "C1",
+   "en": "to embrace",
+   "de": "umarmen"
+  },
+  {
+   "level": "C1",
+   "en": "to emerge",
+   "de": "hervorgehen|auftauchen"
+  },
+  {
+   "level": "C1",
+   "en": "to enact",
+   "de": "erlassen"
+  },
+  {
+   "level": "C1",
+   "en": "to encompass",
+   "de": "umfassen"
+  },
+  {
+   "level": "C1",
+   "en": "to endorse",
+   "de": "billigen"
+  },
+  {
+   "level": "C1",
+   "en": "to endure",
+   "de": "ertragen|aushalten"
+  },
+  {
+   "level": "C1",
+   "en": "to enhance",
+   "de": "steigern"
+  },
+  {
+   "level": "C1",
+   "en": "to enlighten",
+   "de": "aufklären"
+  },
+  {
+   "level": "C1",
+   "en": "to entail",
+   "de": "nach sich ziehen"
+  },
+  {
+   "level": "C1",
+   "en": "to eradicate",
+   "de": "ausrotten"
+  },
+  {
+   "level": "C1",
+   "en": "to evoke",
+   "de": "hervorrufen"
+  },
+  {
+   "level": "C1",
+   "en": "to exempt",
+   "de": "befreien"
+  },
+  {
+   "level": "C1",
+   "en": "to exert",
+   "de": "ausüben"
+  },
+  {
+   "level": "C1",
+   "en": "to exploit",
+   "de": "ausbeuten"
+  },
+  {
+   "level": "C1",
+   "en": "to facilitate",
+   "de": "erleichtern"
+  },
+  {
+   "level": "C1",
+   "en": "to flourish",
+   "de": "gedeihen|blühen"
+  },
+  {
+   "level": "C1",
+   "en": "to forge",
+   "de": "schmieden|fälschen"
+  },
+  {
+   "level": "C1",
+   "en": "to fulfill",
+   "de": "erfüllen"
+  },
+  {
+   "level": "C1",
+   "en": "to gauge",
+   "de": "einschätzen"
+  }
+ ]
+}
